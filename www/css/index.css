@@ -1,0 +1,459 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E0E0E0;
+    xbackground-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    xbackground-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    xbackground-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    xbackground-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #A7A7A7),
+        color-stop(0.51, #E4E4E4)
+    );
+    xbackground-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12pt;
+    height:100%;
+    margin:0px;
+    padding:0px;
+/*    text-transform:uppercase; */
+    width:100%;
+}
+
+/* Portrait layout (default) */
+.app {
+    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    position:absolute;             /* position in the center of the screen */
+    left:50%;
+    top:50%;
+    height:50px;                   /* text area height */
+    width:225px;                   /* text area width */
+    text-align:center;
+    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
+    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+                                   /* offset horizontal: half of text area width */
+}
+
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    .app {
+        background-position:left center;
+        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
+        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
+                                      /* offset horizontal: half of image width and text area width */
+    }
+}
+
+/*
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+*/
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+.headerBlock {
+	display: inline-block;
+	padding: 7px 2em 0px 0.5em;
+	xmin-height: 3ex;
+	min-height: 36px;
+	min-width: 3ex;
+}
+
+.nav {
+	float: right;
+	color: #ffffff;
+	font-weight: bold;
+	xfont-size: 130%;	
+}
+
+.header {
+	background-color: #004167;
+	background-image: -webkit-linear-gradient(#004167, #001d3b);
+	background-image: -moz-linear-gradient(#004167, #001d3b);
+	background-image: -o-linear-gradient(#004167, #001d3b);
+	background-image: linear-gradient(#004167, #001d3b);
+}
+
+img#preloaderAnimation
+{
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-left: -32px;
+	margin-top: -32px;
+}
+
+div#preLoaderDiv
+{
+	position: fixed;
+	_position: absolute;
+	_top:expression(eval(document.body.scrollTop));
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;
+}
+
+div#preLoaderDiv
+{
+	background-color: black;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+	xdisplay: none;
+}
+
+#vrsek {
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	z-index: 100;
+}
+
+#divActualCategory:after {
+	content: "";
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 10px solid white;
+	position: absolute;
+	top: 17px;
+	right: 1ex;
+}
+
+
+
+div.rubriky {
+	background: #001d3b;
+	position: absolute;
+	width: 8em;
+	right: 0px;
+	display: none;
+	xfont-size: 130%;
+	font-weight: bold;
+	z-index: 100;
+}
+
+.rubriky a {
+	border-bottom: solid 1px black;
+	display: inline-block;
+	min-height: 3ex;
+	color: white;
+	text-decoration: none;
+	text-align: right;
+	padding-top: 5px;
+	
+	width: 100%;
+	background-color: #004167;
+	background-image: -webkit-linear-gradient(#004167, #001d3b);	
+	
+	padding-top:1ex;
+	padding-bottom:0.5ex;
+}
+
+
+
+.rubriky a span {
+	margin-right: 1ex;
+}
+
+div.clanek {
+	clear: both;
+	xmargin-top: 0.5ex;
+	xmargin-left: 0.5ex;
+	border-bottom: solid 1px #c0c0c0;
+	min-height: 40px;
+	
+}
+
+.xclanek img {
+	width: 32px;
+	float: left;
+	vertical-align: top;
+	margin-right: 0.5ex;
+}
+
+p.pDatum {
+	margin: 0px 0px 0px 0px;
+}
+
+div.category {
+	margin-top: 0.5em;
+	margin-left: 0px;
+	margin-right: 0px;
+	xfont-size: 150%;
+}
+
+div.category img {
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+div.articleItemContainer {
+	margin-left: 120px;
+	margin-right: 1ex;
+}
+div.articleItem a {
+	text-decoration: none;
+	xfont-weight: bold;
+	font-size: 11pt;
+	font-family: "Georgia";
+}
+
+div.articleItem a:link {
+	color:#004167;
+	}
+	
+div.articleItem a:visited {
+	color:#808080;
+	}
+
+
+
+xxxdiv.articleItem xxxhr {
+    xheight: 0.5px;
+    background: #c0c0c0;
+    xmargin-top: 10px;
+	xmargin-bottom: 2ex;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ddddff, #0000C0, #ddddff);
+    background-image:    -moz-linear-gradient(left, #ddddff, #0000C0, #ddddff);
+    background-image:     -ms-linear-gradient(left, #ddddff, #0000C0, #ddddff);
+    background-image:      -o-linear-gradient(left, #ddddff, #0000C0, #ddddff);
+*/
+*/
+}
+div.articleItem {
+	padding-top: 0.5em;
+}
+
+div.articleItem hr {
+	color: #c0c0c0;
+	background-color: #c0c0c0;
+	height: 1px;
+	border: 0;
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+div.artDate {
+	margin-top: 2ex;
+	font-style: italic;
+	color: #808080;
+	font-size: 80%;
+}
+
+div.copyright {
+	width: 100%;
+	text-align: center;
+	color: #004167;
+}
+
+
+.divArticle {
+	margin: 0.5em 0.5em 0.5em 0.5em;
+}
+
+
+.justify {
+	text-align: justify;
+}
+
+.center {
+	text-align: center;
+	width: 100%;
+}
+
+.italic {
+	font-style: italic;
+}
+
+/*
+h1.justify, h2.justify {
+	text-align: left;
+}
+*/
+
+div.divArticle blockquote {
+	margin: 0px 0px 0px 0px;
+}
+
+.img650 {
+	max-width:650px;
+	width:100%;
+	vertical-align: middle;
+	margin: 20px;
+}
+
+
+
+.text               { }
+.text h1, .text h2, .text h3, .text h4,
+.text p, .text ul, .text ol, .text hr,
+.text .rule, .text table, .text .table { margin: 0 20px; }
+.text p, .text ul, .text ol { padding-bottom: 20px; }
+.text p, .text ul, .text ol, .text td, .text th { line-height: 18px; }
+.text h2            { margin-bottom: 5px; text-transform: none; font-size: 17px; font-weight: normal; color: #005d94; }
+.text h3            { margin-bottom: 5px; text-transform: none; font-size: 15px; font-weight: bold; color: #343334; }
+.text h4            { padding-bottom: 5px; font-weight: bold; color: #343334; }
+.text h1,
+.text .h1           { margin-bottom: 10px; padding-bottom: 10px; text-transform: uppercase; font-size: 20px; font-weight: bold; color: #004167; border-bottom: 1px solid #f1f1f1; }
+.text p             { }
+.text p a           { }
+/*.text p:last-child,
+.text ul:last-child { padding-bottom: 0; }*/
+.text ul,
+.text ol            { }
+.text li            { padding: 3px 0; list-style-type: none; list-style-position: outside; }
+.text li h2         { margin-left: 0; }
+.text ul li         { padding-left: 16px; background: url('../images/bull.gif') no-repeat scroll 2px 9px; }
+.text ul li li      { margin-left: 20px; padding-left: 0; list-style-type: disc; background: none; }
+.text ol li         { margin-left: 20px; list-style-type: decimal; }
+.text ol li li      { list-style-type: lower-alpha; }
+.text ul ul,
+.text ul ol,
+.text ol ol         { margin-left: 0; padding-top: 5px; padding-bottom: 10px; }
+.text .rule,
+.text hr            { margin-bottom: 10px; display: block; height: 16px; border-width: 0; border: none; outline: none; background: none; border-bottom: 1px solid #f1f1f1; }
+.text table         { }
+.text td,
+.text th            { padding: 5px; border: 1px solid #e0e0e0; }
+.text th            { font-weight: 700; }
+.text thead         { }
+.text tfoot         { }
+.text .font-bigger  { line-height: 22px; }
+.text .indent       { text-indent: 20px; }
+
+
+.text h1	{
+	font-size: 14pt;
+	text-align: left;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+div.main {
+	height: 100%;
+}
+
+div.main > div.ng-scope {
+	height: 100%;
+}
+	
+div.rn-carousel-container {
+	height: 100%;
+}
+
+div.rn-carousel-container ul {
+	height: 100%;
+}
+
+div.clanek {
+	height: 100%;
+}
+
+div.cl {
+	overflow-y:scroll;
+	height: 100%;
+	-webkit-overflow-scrolling: touch;
+}
+
+div.category {
+    padding-top: 42px;
+	height: 100%;
+}
+
+div.ca {
+	overflow-y:scroll;
+	height: 100%;
+	-webkit-overflow-scrolling: touch;
+	margin-bottom: 400px;
+}
+
+div.clanek {
+    padding-top: 42px;	
+}
+
+img.artImg {
+	xdisplay: none;
+}
+
+div.articleItem a.bigCategory {
+	font-size: 200%;
+	margin-left: -2em;
+}
+
+.selArticle {
+	background-color: #c0c0c0;
+}

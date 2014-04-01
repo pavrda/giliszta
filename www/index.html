@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html ng-app="readerApp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=160" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="css/angular-carousel.css" />
+    <title>ZOO Praha</title>
+    <script type="text/javascript" src="js/requestAnimationFrame.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/angular.js"></script>
+    <script type="text/javascript" src="js/angular-route.min.js"></script>
+    <script type="text/javascript" src="js/angular-sanitize.js"></script>
+    <script type="text/javascript" src="js/angular-touch.js"></script>
+    <script type="text/javascript" src="js/angular-carousel.js"></script>
+    <script type="text/javascript" src="texty/seznam.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/dbService.js"></script>
+    <script type="text/javascript" src="js/imgService.js"></script>
+    <script type="text/javascript" src="js/controllers.js"></script>
+    <script type="text/javascript" src="phonegap.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+
+/*
+window.onerror = function(message, url, lineNumber) {
+    alert("Error: "+message+" in "+url+" at line "+lineNumber);
+}
+*/
+
+// on iPhone delay splash screen
+function onDeviceReady() {
+//	angular.bootstrap(document, ["readerApp"]);
+/*
+	setTimeout(function() {
+        navigator.splashscreen.hide();
+    }, 5000);
+*/
+}
+
+$('document').ready(function() {
+	
+//	$('#divActualCategory').on('click', function(e) {
+	$('#vrsek').on('click', function(e) {
+		$('#navRubriky').toggle('fast');
+		e.stopPropagation(); 
+	});
+
+
+	$(document).on('click', function(e) {
+		$('#navRubriky:visible').toggle('fast');
+	});
+	
+});
+
+//document.addEventListener("deviceready", onDeviceReady, false);	
+
+function showMenu(e) {
+	alert('ahoj');
+
+	$('#navRubriky').show();
+//	$('#navRubriky').toggle('fast');
+	e.stopPropagation(); 
+}
+
+</script>
+        <div class="main">
+			<div id="preLoaderDiv">
+				<img id="preloaderAnimation" src="img/loader.gif" />
+			</div>
+			<div id="vrsek">
+	        	<div class="header">
+	        		<div class="nav headerBlock" id="divActualCategory">{{actualCategoryTitle}}</div>
+	        		<div class="logo headerBlock">
+	        			<a href="#/pro-inspiraci" onclick="event.stopPropagation()"><img src="img/logo64b.png" height="32" /></a>
+	        		</div>
+	        	</div>
+	        	<div class="rubriky" id="navRubriky" >
+	       			<a href="#o-nas" data-catid="o-nas"><span>O Eyrie</span></a>
+	       			<a href="#poradenstvi-a-sluzby" data-catid="poradenstvi-a-sluzby" ><span>Naše služby</span></a>
+	       			<a href="#pro-inspiraci" data-catid="pro-inspiraci" ><span>Pro inspiraci</span></a>
+	       			<a href="#doporucujeme" data-catid="doporucujeme" ><span>Doporučujeme</span></a>
+	       			<a href="#osobnosti" data-catid="osobnosti" ><span>Osobnosti</span></a>
+	       			<a href="#kontakt" data-catid="kontakt" ><span>Kontakt</span></a>
+	        	</div>
+			</div>        	
+        	<div class="contentContainer" id="divContent"></div>
+        	<div ng-view></div>
+        </div>
+    </body>
+</html>
