@@ -1,0 +1,849 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+	<head>
+		  <base href="http://www.zoopraha.cz/en/animals/come-and-meet" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="prague zoo, animals" />
+  <meta name="description" content="Welcome to the official English pages of Prague Zoo!" />
+  <title>Prague Zoo - Meet Them!</title>
+  <!-- Perfect Link with Article Images on Facebook PRO -->
+  <meta property="og:title" content="Meet Them!"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="http://www.zoopraha.cz/en/animals/come-and-meet"/>
+  <meta property="og:site_name" content="Prague Zoo"/>
+  <meta property="og:description" content="Meet the 25 most interesting animal inhabitants of Prague Zoo &ndash; personalities that you may know from zoo 2010&ndash;2012 posters!"/>
+  <meta property="og:image" content="http://www.zoopraha.cz/images/banners/seznamte-se-4.jpg"/>
+
+	<meta name="robots" content="index, follow" />
+    	<link rel="alternate" type="application/rss+xml" title="Zoo Praha (kanal RSS) / Prague Zoo (RSS channel)"  href="http://www.zoopraha.cz/?format=feed&amp;type=rss"/>
+    <link href="/img/default/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	
+                
+
+		<script  type="text/javascript" src="/dev/javascript/jquery-1.9.1.js"></script>
+        <script  type="text/javascript" src="/dev/javascript/jquery-ui.js"></script>
+        <script type="text/javascript" src="/dev/javascript/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.elastislide.js"></script>
+        
+		<script type="text/javascript" src="/dev/javascript/lightbox-2.6.min.js"></script>
+        <script type="text/javascript" src="/dev/javascript/zoowidgets.js"></script>        
+        <script type="text/javascript" src="/dev/javascript/socialplugins.js" ></script>
+        
+        <script type="text/javascript" src="/dev/javascript/jquery-apps.js" ></script>
+        <script type="text/javascript" src="/dev/javascript/addthis_widget.js#pubid=ra-51e7f5bb69240ddc"></script>
+
+	<script type="text/javascript" src="/dev/javascript/partneri.js"></script>
+<script type="text/javascript" src="/dev/javascript/partneri-run.js"></script>
+
+
+  
+		<link rel="stylesheet" href="/dev/css/basic.css?v21" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/widgets.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/dev/css/colors.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/icons.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/dev/css/lightbox.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="/dev/css/gallery.css" type="text/css" media="screen" />
+
+        <!--[if IE]>
+		<link rel="stylesheet" href="/dev/css/ie.css" type="text/css" media="all"/>
+		<![endif]-->
+		<link rel="stylesheet" href="/dev/css/print.css?v212" type="text/css" media="print"/>
+        
+
+	</head>
+
+<body>
+<div id="page">
+
+
+<div id="topcase">
+	<div id="top">
+
+
+
+
+	<div id="logo"><a href="/en"><img src="/img/eng/praguezoo-logo.png" alt="Prague Zoo (main page)" width="142" height="167" border="0"/></a></div>
+
+
+
+	<div itemscope itemtype="http://schema.org/Organization" class="objecthid">
+  <a itemprop="url" href="http://www.zoopraha.cz/">Zoo Praha</a>
+  <img itemprop="logo" src="http://www.zoopraha.cz/img/Zoologicka-zahrada-hl-m-Prahy.png" />
+</div>
+
+<div id="navigation">
+
+
+
+	<ul>
+<li><a href="http://www.facebook.com/praguezoo"><img src="/img/default/facebook.jpg" border="0" alt="Facebook" width="63" height="23" /></a></li>
+<li><a href="http://www.youtube.com/zoopraha">Youtube</a></li>
+<li><a href="/en/about-zoo/contacts">Contact</a></li>
+<li><a href="/cs">CZ</a> / <a href="/en">EN</a></li>
+</ul>
+
+
+
+	<form action="/en/search/" method="get"><input class="inputsearch" type="text" name="searchword" onclick="this.value='';" value="Search" /><input class="butsearch" type="submit" name="search" value=""/>
+</form>
+
+</div>
+
+
+<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+
+
+
+<div id="menu">
+<ul>
+
+	
+		<li class="stopabarvaborder1"><a href="/en/before-visit"><span>Before visit</span></a>    
+
+<ul class="menulevel2"><li><a href="/en/before-visit/opening-time"><span>Opening time</span></a></li>
+<li><a href="/en/before-visit/admission-prices"><span>Admission prices</span></a></li>
+<li><a href="/en/before-visit/how-to-get-to-our-zoo"><span>How to get to our zoo</span></a></li>
+<li><a href="/en/before-visit/prague-zoo-map"><span>Prague Zoo map</span></a></li>
+<li><a href="/en/before-visit/services-for-visitors"><span>Services for visitors</span></a></li>
+<li><a href="/en/before-visit/visitor-rules"><span>Visitor Rules</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder2 active"><a href="/en/animals"><span>Animals</span></a>    
+
+<ul class="menulevel2"><li><a href="/en/animals/come-and-meet"><span>Meet Them!</span></a></li>
+<li><a href="/en/animals/we-help-them-to-survive"><span>We help them to survive</span></a></li>
+<li><a href="/en/animals/the-zoo-in-numbers"><span>The Zoo in Numbers</span></a></li>
+<li><a href="/en/animals/animals-are-learning"><span>Animals are learning</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+		<li class="stopabarvaborder3"><a href="/en/about-zoo"><span>About zoo</span></a>    
+
+<ul class="menulevel2"><li><a href="/en/about-zoo/news"><span>News</span></a></li>
+<li><a href="/en/about-zoo/history"><span>History</span></a></li>
+<li><a href="/en/about-zoo/director"><span>Director</span></a></li>
+<li><a href="/en/about-zoo/contacts"><span>Contacts</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+		<li class="stopabarvaborder4"><a href="/en/must-see"><span>Must see</span></a>    
+
+
+
+    </li>
+
+
+		<li class="stopabarvaborder5"><a href="/en/help-us"><span>Help us</span></a>    
+
+<ul class="menulevel2"><li><a href="/en/help-us/zoo-adoption"><span>Adoption and Sponsorship</span></a></li>
+<li><a href="/en/help-us/sms-sponzoring"><span>SMS sponzoring</span></a></li>
+<li><a href="/en/help-us/help-for-endangered-species"><span>Help for endangered species</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+		<li class="stopabarvaborder6"><a href="/en/multimedia"><span>Multimedia</span></a>    
+
+
+
+    </li>
+
+</ul>
+
+</div>
+<div style="clear:both"></div>
+
+
+</div>
+</div>
+
+<div id="content"><div id="mainbox" class="stopavelemlok">
+<div id="maintitle"><h1>Meet Them!</h1></div><div id="mainsubtitle"></div>
+</div>
+<div id="maingraphic"><img src="/images/banners/seznamte-se-4.jpg" width="1000" height="370" border="0" alt="Meet Them!"/></div>
+
+<div id="mainsub"  class="stopavelemlok">
+ <a href="/">Main page</a>&nbsp;>&nbsp;<a href=/en/animals>Animals</a>    </div>
+
+
+
+
+
+    <div id="maincontent" class="stopavelemlok">
+
+    		<div class="perex"><p>Meet the 25 most interesting animal inhabitants of Prague Zoo – personalities that you may know from zoo 2010–2012 posters!</p></div>
+		
+    
+
+    
+    
+
+
+<div class="items-intro">
+   <div class="boxcontent normalbox noborder spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7613-aranka-the-komodo-dragon">
+			Aranka the Komodo Dragon</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7613-aranka-the-komodo-dragon">
+	<img src="/images/Seznamte_se/Varan_komodsky_Aranka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+A most prolific Komodo dragon mother, Aranka embodies everything that we prize in these creatures: strength, predacity, dauntlessness, high intelligence, invention, sensitivity and focus on their clutch.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox noborder ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7602-bikira-the-western-lowland-gorilla">
+			Bikira the Western Lowland Gorilla</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7602-bikira-the-western-lowland-gorilla">
+	<img src="/images/Seznamte_se/Gorila_Bikira.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+It is easy to tell Bikira apart from the others – her lips, which in gorillas are usually black, are gently streaked with pink, and she likes to walk on her hind legs. Gentle and friendly – these two adjectives best describe Bikira, a gorilla...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7608-bora-the-polar-bear">
+			Bora the Polar Bear</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7608-bora-the-polar-bear">
+	<img src="/images/Seznamte_se/Medved_ledni_Bora.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Unlikely though it may sound, this laid-back, phlegmatic member of the polar-bear species “is not really into the whole water thing”. So you will know her when you see her: she is the only one of our bears who likes to lounge on the bank...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7607-cert-the-honey-badger">
+			Čert the Honey Badger</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7607-cert-the-honey-badger">
+	<img src="/images/Seznamte_se/Medojed_Cert.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+The honey badger named Čert ([Chert]) – which is Czech for something like “devilkin” – is, without exaggeration, the “founding father” of Prague Zoo’s unique effort to breed these captivating carnivores of the weasel family. Powerful,...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7590-galapagos-giant-tortoise">
+			Eberhard the Galápagos Tortoise</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7590-galapagos-giant-tortoise">
+	<img src="/images/Seznamte_se/Zelva_sloni_Eberhard.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Reptile curator Petr Velenský calls him the “Gentle Giant”, but his full name reads Eberhard von Leipziger Hauptbahnhof. Species-wise, he is a Santa-Cruz Galápagos tortoise <em>(Chelonoidis nigra porteri)</em>.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7592-malayan-tapir">
+			Indah the Malayan Tapir</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7592-malayan-tapir">
+	<img src="/images/Seznamte_se/Tapir_cabrakovy_Indah.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Belonging to one of the rarest odd-toed ungulate species in the world, Indah and her partner Niko are the only Malayan tapirs in Czechia. Indah’s distinguishing mark? This: unlike her mate, she does not sport white “socks” on her feet.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7614-jepe-the-bactrian-camel">
+			Jepe the Bactrian Camel</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7614-jepe-the-bactrian-camel">
+	<img src="/images/Seznamte_se/velbloud_dvouhrby_Jepe.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+The largest camel in the Prague herd, Jepe rules his harem with prudence and imperturbable sang-froid, and has already been at it for over ten years. You can easily recognize him: his entire front hump tends to teeter to the right.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7606-karkulka-the-red-kangaroo">
+			Karkulka the Red Kangaroo</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7606-karkulka-the-red-kangaroo">
+	<img src="/images/Seznamte_se/Klokan_rudy_Karkulka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+The name Karkulka, which is Czech for Little Red Riding Hood, fits this kangaroo lady like a glove. That is because for a female of this species, her fur has an unusually reddish tinge. As a Red Kangaroo (Macropus rufus), she is a member of the...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7588-double-wattled-cassowary">
+			Kašík the Southern Cassowary</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7588-double-wattled-cassowary">
+	<img src="/images/Seznamte_se/kasuar_kasik.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+In a cassowary household, the roles of the sexes are divided up somewhat differently from what we are used to. Consider this: the parental duties of the female end with the laying of eggs; all the rest is taken care of by the male! And, true to his...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7594-malayan-tiger">
+			Kawi the Malayan Tiger</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7594-malayan-tiger">
+	<img src="/images/Seznamte_se/Tygr_malajsky_Kawi.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+The origin of this striped stunner makes him extraordinarily valuable for the European breeding stock. This is because he came to Prague directly from his native island of Borneo. And consider this: the Malayan tiger had been recognized as a separate...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7601-kito-the-cheetah">
+			Kito the Cheetah</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7601-kito-the-cheetah">
+	<img src="/images/Seznamte_se/Gepard_Kito.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+To be able to gaze admiringly at Kito’s lithe elegance, you don’t have to do much: his favorite spot is by the glass window of the viewing gallery, so close that it seems you could touch him. Just so you don’t confuse him with our other cheetah...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7538-eland-antelope">
+			Klaudie the Eland Antelope</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7538-eland-antelope">
+	<img src="/images/Seznamte_se/antilopa losi_Klaudie kampaň_NW.jpg_thumb.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+This majestic belle is sure to catch your eye among all the other plant-eaters with whom she shares the meadow in front of the African House. Only the giraffes outbulk her. Klaudie’s back – unlike that of her companion, Katrin – is adorned with...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7603-kvida-the-aardvark">
+			Kvída the Aardvark</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7603-kvida-the-aardvark">
+	<img src="/images/Seznamte_se/Hrabac_Kvida.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Her powerful claws bespeak an accomplished burrower, while the button-like end of her snout points to a predilection for rooting in the ground. And the favorite dish of this epicurean slacker, you ask? Worms. Meet Kvída!
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7605-len-the-przewalski-s-horse">
+			Len the Przewalski’s Horse</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7605-len-the-przewalski-s-horse">
+	<img src="/images/Seznamte_se/Kun_Prevalskeho_Len.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+As the grandson of the last Przewalski’s horse caught in the wild, he is genetically extremely valuable for his entire species. In spite of that, he has voluntarily chosen to play second fiddle in the herd. A bashful stallion with notched ears –...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7587-lucie-the-eastern-black-and-white-colobus-monkey">
+			Lucie the Eastern Black-and-White Colobus Monkey</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7587-lucie-the-eastern-black-and-white-colobus-monkey">
+	<img src="/images/Seznamte_se/Guereza_plastikova_Lucie.jpg_thumb.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+If there is one colobus monkey in the troop that is “as curious as a monkey”, it has to be Lucie – one of the two adult females in the Prague group. This excellent mother can be recognized by her somewhat short mantle of flowing...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7609-matyas-the-steller-s-sea-eagle">
+			Matyáš the Steller's Sea Eagle</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7609-matyas-the-steller-s-sea-eagle">
+	<img src="/images/Seznamte_se/orel-vychodni_Matyas-kampaň.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+A representative of one of the world’s largest eagle species, Matyáš is a genuine family man, a solicitous father and an attentive husband. He has over ten successfully raised chicks – most of them twins – to his credit!
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7589-brown-fur-seal">
+			Meloun the Cape Fur Seal</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7589-brown-fur-seal">
+	<img src="/images/Seznamte_se/Lachtan_jihoafricky_Meloun.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Meloun (which is Czech for melon) is a gorgeous, colossal Cape fur seal bull, the son of the famous Gaston and his partner Julinka. He lost his father to the calamitous flood of 2002, and today it is he who fills the post of “head of the family”....</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7599-morris-the-red-river-hog">
+			Morris the Red River Hog</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7599-morris-the-red-river-hog">
+	<img src="/images/Seznamte_se/Stetkoun_Morris.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Morris and his brother Mikey, our two red-furred stunners, are like two peas in a pod. Morris does have some distinguishing marks, though: a pink spot on the inner side of his right horn and the fact that the white line along the ridge of his back...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7591-rothschild-s-giraffe">
+			Nora the Rothschild’s Giraffe</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7591-rothschild-s-giraffe">
+	<img src="/images/Seznamte_se/Zirafa_Nora.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+A native daughter of Prague Zoo, Nora is number forty in the long line of Rothschild’s giraffes who first saw the light of day on its grounds. She is the most conservative giraffe of our herd and regards every novelty with due suspicion. As a...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7593-vermiculate-river-stingray">
+			Otorongo the Vermiculate River Stingray</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7593-vermiculate-river-stingray">
+	<img src="/images/Seznamte_se/Trnucha_Otorongo.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+His keepers call him “Little Boy” or “Mr. Chondrichthian” and are daily confirmed in their opinion that this freshwater stingray is a personality with a capital P. His pastime of choice? Teasing his roommates – the anacondas!
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7612-otylka-the-humboldt-penguin">
+			Otylka the Humboldt’s Penguin</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7612-otylka-the-humboldt-penguin">
+	<img src="/images/Seznamte_se/Tucnak_Humboldtuv_Otylka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+So all penguins look alike to you and you can hardly tell them apart? We beg to disagree! Why don’t you take a gander at our Otylka and her partner Drobek? – you can tell them apart from the others easily: they are by far the largest...</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7610-pat-the-red-panda">
+			Pat the Lesser Panda</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7610-pat-the-red-panda">
+	<img src="/images/Seznamte_se/BB_seznamtese_panda_verze_mys.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+We have engaged in a more or less systematic effort to breed these rare little carnivors, which come from the forested foothills of the Himalayas, from as far back as the 1970s. Nevertheless, we had to wait for Pat and his partner Maria to arrive and...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7600-prokop-the-rhinoceros-hornbill">
+			Prokop the Rhinoceros Hornbill</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7600-prokop-the-rhinoceros-hornbill">
+	<img src="/images/Seznamte_se/Dvojzoborozec _nosorozci_Prokop.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Prokop is living proof that even a seeming outsider may turn out to be a real champion. No zoo wanted him, because his bill was damaged, but Prague Zoo gave him a chance – and he returned the favor with interest!
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7611-shanti-the-indian-elephant">
+			Shanti the Asian Elephant</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7611-shanti-the-indian-elephant">
+	<img src="/images/Seznamte_se/Slon_indicky_Shanti.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+She is the tallest and second-oldest female elephant in the Prague herd. In addition to her height, she can also be distinguished by her conspicuously bulging forehead. As a little calf, she arrived in Czechia to lead a life of cinematic stardom;...</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/en/animals/come-and-meet/7604-slavek-the-hippopotamus">
+			Slávek the Hippopotamus</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/en/animals/come-and-meet/7604-slavek-the-hippopotamus">
+	<img src="/images/seznamtese/seznamtese-slavek.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+You might not expect to find a gentleman among hippopotami – but this three-and-a-half-ton native son of Prague has earned a reputation as a chivalrous and kindhearted male who is exceedingly indulgent not just towards females, but...</p></div>
+</div>
+	 </div>
+
+
+
+
+  
+     </div>
+     
+ 
+
+<div id="aside">        
+
+
+
+	<div id="fb-root"></div>
+<div class="fb-like-box" data-href="https://www.facebook.com/praguezoo" data-width="300" data-show-faces="true" data-stream="true" data-show-border="true" data-header="true" style="margin-bottom:20px;"></div>
+<div class="boxcontent stopavaran">
+<div class="boxtitle boxbackground normalbox"><h3>
+<a href="/en/about-zoo/news">News</a>
+</h3>
+
+</div>
+
+
+		                 <div class="para"><a  href="/en/about-zoo/news/7932-leopard-cubs-outdoors"><img src="/images/Aktualne/Levhart_mandzusky_foto_02_Ptacinska_Jiratova.jpg" alt="" width="300" height="168" border="0"/></a></div>
+   
+    
+    <div class="boxsubtitle">
+<h4><a  href="/en/about-zoo/news/7932-leopard-cubs-outdoors">
+		Leopard Cubs Outdoors</a></h4>
+<div class="para"><p style="margin-top:0; padding-top:0">Our visitors could meet the three month old triplets of Amur Leopard for the first time. Together with their mother Khanka they were released to the outside exhibit in the northern part of the zoo.</p></div>    </div>
+ 
+		           	   	
+	   			
+       
+         <div class="boxsubtitle">
+<h4><a  href="/en/about-zoo/news/7931-a-handsom-young-bison-to-add-zest-to-local-herd">
+		A Handsom Young Bison to Add Zest to Local Herd </a></h4>
+        </div>
+		
+		
+      
+            
+         
+        
+	
+
+</div>
+
+</div>
+
+<div style="clear: both"></div>
+
+
+
+	<div class="sitemap">
+<h3>ZOOPRAHA.CZ</h3>
+<div class="mapitem">
+<h4><a href="/en/before-visit">Before visit</a></h4>
+<ul>
+<li><a href="/before-visit/admission-prices">Admission prices</a></li>
+<li><a href="/en/before-visit/how-to-get-to-our-zoo">How to get to our zoo</a></li>
+<li><a href="/en/before-visit/prague-zoo-map">Prague Zoo map</a></li>
+<li><a href="/en/before-visit/services-for-visitors">Services for visitors</a></li>
+<li><a href="/en/before-visit/visitor-rules">Visitor Rules</a></li>
+</ul>
+</div>
+
+
+<div class="mapitem">
+<h4><a href="/en/must-see">Must see</a></h4>
+
+<h4><a href="/en/about-zoo">About zoo</a></h4>
+<ul>
+<li><a href="/en/about-zoo/news">News</a></li>
+<li><a href="/en/about-zoo/history">History</a></li>
+<li><a href="/en/about-zoo/director">Director</a></li>
+</ul>
+</div>
+
+
+<div class="mapitem">
+<h4><a href="/en/animals">Animals</a></h4>
+<ul>
+<li><a href="/en/animals/come-and-meet">Meet Them!</a></li>
+<li><a href="/en/animals/we-help-them-to-survive">We help them to survive</a></li>
+<li><a href="/en/animals/the-zoo-in-numbers">The Zoo in Numbers</a></li>
+
+</ul>
+<h4><a href="/en/multimedia">Multimedia and social networks</a></h4>
+<ul>
+<li><a href="http://www.youtube.com/zoopraha">Youtube channel</a></li>
+<li><a href="https://www.facebook.com/praguezoo">Facebook</a></li>
+</ul>
+
+</div>
+
+
+<div class="mapitem">
+
+
+<h4><a href="/en/help-us">Help us</a></h4>
+<ul>
+<li><a href="/en/help-us/zoo-adoption">Adoption and sponsorship</a></li>
+<li><a href="/en/help-us/sms-sponzoring">SMS sponzoring</a></li>
+</ul>
+
+</div>
+
+<div class="mapitem">
+<h4><a href="/about-zoo/contacts">Contacts</a></h4>
+<ul>
+<li>The Prague zoological garden<br />U Trojskeho zamku 3/120<br />171 00 Praha 7<br /><br />Phone.: (+420) 296 112 230 (public relations department)<br />e-mail: pr@zoopraha.cz 
+</li>
+</ul>
+
+<h4>Others</h4>
+<ul>
+<li><a href="/?device=xhtml">Mobile version</a></li>
+</ul>
+
+</div>
+
+<p><br clear="all" /></p>
+<div style="clear: both;"> </div>
+</div>
+</div>
+
+
+
+	<div id="footercase">
+<div id="footer">(c) 2014 Prague Zoo All rights reserved</a>&nbsp;&nbsp;<a href="http://www.prahavolnocasova.cz"><img src="/img/default/praha-volnocasova_ico.gif" alt="Hl. m. Praha" width="81" height="32" border="0" /></a> <a href="http://www.praha.eu/"><img src="/img/default/praha-ico.gif" alt="Praha volnočasová" width="31" height="32" border="0" /></a></div>
+</div>
+
+
+
+
+
+
+
+<div id="googleanalytics">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43078682-1', 'zoopraha.cz');
+  ga('send', 'pageview');
+
+</script>
+</div>
+
+</div>
+
+
+	</body>
+</html>

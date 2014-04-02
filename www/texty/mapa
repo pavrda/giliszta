@@ -1,0 +1,626 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs-cz" lang="cs-cz" dir="ltr" >
+	<head>
+		  <base href="http://www.zoopraha.cz/navsteva/mapa" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="zoo, zoo praha, zvířata, gorily, sloni, park, výlet, prohlídky, ochrana zvířat" />
+  <meta name="description" content="Zoologická zahrada hl. m. Prahy sídlí v pražské Troji už více než 80 let." />
+  <title>Zoo Praha  - Mapa Zoo Praha</title>
+
+	<meta name="robots" content="index, follow" />
+    	<link rel="alternate" type="application/rss+xml" title="Zoo Praha (kanal RSS) / Prague Zoo (RSS channel)"  href="http://www.zoopraha.cz/?format=feed&amp;type=rss"/>
+    <link href="/img/default/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	
+                
+
+		<script  type="text/javascript" src="/dev/javascript/jquery-1.9.1.js"></script>
+        <script  type="text/javascript" src="/dev/javascript/jquery-ui.js"></script>
+        <script type="text/javascript" src="/dev/javascript/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.elastislide.js"></script>
+        
+		<script type="text/javascript" src="/dev/javascript/lightbox-2.6.min.js"></script>
+        <script type="text/javascript" src="/dev/javascript/zoowidgets.js"></script>        
+        <script type="text/javascript" src="/dev/javascript/socialplugins.js" ></script>
+        
+        <script type="text/javascript" src="/dev/javascript/jquery-apps.js" ></script>
+        <script type="text/javascript" src="/dev/javascript/addthis_widget.js#pubid=ra-51e7f5bb69240ddc"></script>
+
+	<script type="text/javascript" src="/dev/javascript/partneri.js"></script>
+<script type="text/javascript" src="/dev/javascript/partneri-run.js"></script>
+
+
+  
+		<link rel="stylesheet" href="/dev/css/basic.css?v21" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/widgets.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/dev/css/colors.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/icons.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/dev/css/lightbox.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="/dev/css/gallery.css" type="text/css" media="screen" />
+
+        <!--[if IE]>
+		<link rel="stylesheet" href="/dev/css/ie.css" type="text/css" media="all"/>
+		<![endif]-->
+		<link rel="stylesheet" href="/dev/css/print.css?v212" type="text/css" media="print"/>
+        
+
+	</head>
+
+<body>
+<div id="page">
+
+
+<div id="topcase">
+	<div id="top">
+
+
+
+
+	<div id="logo"><a href="/cs"><img src="/img/cs/ZooPraha-logo.png" alt="Zoo Praha" width="142" height="167" border="0"/></a></div>
+
+
+
+	<div itemscope itemtype="http://schema.org/Organization" class="objecthid">
+  <a itemprop="url" href="http://www.zoopraha.cz/">Zoo Praha</a>
+  <img itemprop="logo" src="http://www.zoopraha.cz/img/Zoologicka-zahrada-hl-m-Prahy.png" />
+</div>
+
+<div id="navigation">
+
+
+
+	<ul>
+<li><a href="http://www.facebook.com/zoopraha"><img src="/img/default/facebook.jpg" border="0" alt="facebook" width="63" height="23" /></a></li>
+<li><a href="/vse-o-zoo/press">Press</a></li>
+<li><a href="/vse-o-zoo/kontakt">Kontakt</a></li>
+<li><a href="/cs">CZ</a> / <a href="/en">EN</a></li>
+</ul>
+
+
+
+	<form action="/hledani/" method="get"><input class="inputsearch" onclick="this.value='';" type="text" name="searchword" value="hledání" /><input class="butsearch" type="submit" name="search" value=""/></form>
+
+</div>
+
+
+<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+
+
+
+<div id="menu">
+<ul>
+
+	
+		<li class="stopabarvaborder1 active"><a href="/navsteva"><span>Návštěva</span></a>    
+
+<ul class="menulevel2"><li><a href="/navsteva/oteviraci-doba"><span>Otevírací doba</span></a></li>
+<li><a href="/navsteva/vstupne"><span>Vstupné</span></a></li>
+<li><a href="/navsteva/kudy-do-zoo-praha"><span>Kudy do Zoo Praha</span></a></li>
+<li><a href="/navsteva/mapa"><span>Mapa Zoo Praha</span></a></li>
+<li><a href="/navsteva/sluzby-navstevnikum"><span>Služby návštěvníkům</span></a></li>
+<li><a href="/navsteva/program/week.listevents/2014/04/01/-"><span>Program a aktivity</span></a></li>
+<li><a href="/navsteva/no-limit"><span>Karta NO LIMIT</span></a></li>
+<li><a href="/navsteva/fanklub"><span>Fanklub</span></a></li>
+<li><a href="/navsteva/navstevni-rad"><span>Návštěvní řád</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder2"><a href="/zvirata-a-expozice"><span>Zvířata a expozice</span></a>    
+
+<ul class="menulevel2"><li><a href="/zvirata-a-expozice/seznamte-se"><span>Seznamte se!</span></a></li>
+<li><a href="/zvirata-a-expozice/pomahame-jim-prezit"><span>Pomáháme jim přežít</span></a></li>
+<li><a href="/zvirata-a-expozice/kam-v-zoo"><span>Kam v zoo</span></a></li>
+<li><a href="/zvirata-a-expozice/zvirata-v-cislech"><span>Zoo v číslech</span></a></li>
+<li><a href="/zvirata-a-expozice/zvirata-se-uci"><span>Zvířata se učí</span></a></li>
+<li><a href="/zvirata-a-expozice/lexikon-zvirat"><span>Lexikon zvířat</span></a></li>
+<li><a href="http://www.zoopraha.cz/multimedia/"><span>Multimedia</span></a></li>
+<li><a href="/zvirata-a-expozice/prirustky"><span>Přírůstky</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder3"><a href="/vse-o-zoo"><span>Vše o zoo</span></a>    
+
+<ul class="menulevel2"><li><a href="/aktualne"><span>Aktuálně</span></a></li>
+<li><a href="/vse-o-zoo/nase-poslani"><span>Naše poslání</span></a></li>
+<li><a href="/vse-o-zoo/press"><span>Pro média</span></a></li>
+<li><a href="/vse-o-zoo/historie"><span>Historie</span></a></li>
+<li><a href="/vse-o-zoo/z-reditelny"><span>Z ředitelny</span></a></li>
+<li><a href="/vse-o-zoo/projekty-podporovane-eu"><span>Projekty podporované EU</span></a></li>
+<li><a href="/vse-o-zoo/vyrocni-zpravy"><span>Výroční zprávy</span></a></li>
+<li><a href="/vse-o-zoo/vyberova-rizeni"><span>Výběrová řízení</span></a></li>
+<li><a href="/vse-o-zoo/volna-mista"><span>Volná místa</span></a></li>
+<li><a href="/vse-o-zoo/kontakt"><span>Kontakt</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder4"><a href="/skoly-a-deti"><span>Školy a děti</span></a>    
+
+<ul class="menulevel2"><li><a href="/skoly-a-deti/pro-deti"><span>Pro děti</span></a></li>
+<li><a href="/skoly-a-deti/pro-skoly"><span>Pro školy</span></a></li>
+<li><a href="/skoly-a-deti/krouzky"><span>Zookroužky</span></a></li>
+<li><a href="/skoly-a-deti/zooskola"><span>Zooškola</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+		<li class="stopabarvaborder5"><a href="/jak-pomoci"><span>Jak pomoci</span></a>    
+
+<ul class="menulevel2"><li><a href="/jak-pomoci/povodne"><span>Povodně </span></a></li>
+<li><a href="/jak-pomoci/sms-sponzoring"><span>SMS sponzorování</span></a></li>
+<li><a href="/jak-pomoci/pomoc-ohrozenym-druhum"><span>Pomoc ohroženým druhům</span></a></li>
+<li><a href="/jak-pomoci/adopce-a-sponzorstvi"><span>Adopce a sponzorství</span></a></li>
+<li><a href="/jak-pomoci/seznam-darcu-na-novy-sloninec"><span>Seznam dárců </span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder6"><a href="http://eshop.zoopraha.cz"><span>E-shop</span></a>    
+
+
+
+    </li>
+
+</ul>
+
+</div>
+<div style="clear:both"></div>
+
+
+</div>
+</div>
+
+<div id="content">
+
+
+	<div style="padding-top:90px;padding-left:20px;background-color:#fff;height:470px; ">
+<iframe src="http://www.zoopraha.cz/mapazoo/" width="950" height="470" frameborder="0" scrolling="no" style="position:relative;z-index:400;"></iframe>
+</div>
+<div id="mainbox" class="stopakondor">
+<div id="mainsubtitle"></div>
+</div>
+
+<div id="mainsub"  class="stopakondor">
+ <a href="/">Hlavní stránka</a>&nbsp;>&nbsp;<a href=/navsteva>Návštěva</a>    </div>
+    
+    <div id="maincontent" class="stopakondor">
+
+    		<div class="para"><p>Zoologická zahrada má rozlohu 60 ha, z toho 50 ha činí expozice. Projít se můžete po 10 km cest!</p>
+</div>
+	
+
+    
+	
+    
+
+
+	<div class="mainboxcontent largebox casetop">
+<div class="mainboxtitle">
+<h2>Stáhněte a vytiskněte si mapu zahrady:</h2>
+</div>
+<div class="boxcontent">
+<div class="para">
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://www.zoopraha.cz/media/mapa-web.jpg">Běžná mapa Zoo Praha (formát JPG)</a></li>
+<li><a href="http://www.zoopraha.cz/media/mapa-web.pdf">Běžná mapa Zoo Praha (formát PDF)</a></li>
+</ul>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+
+
+
+	    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script>
+function initialize() {
+  var fenway = new google.maps.LatLng(50.116764,14.411002);
+  
+  var panoramaOptions = {
+    position: fenway,
+    pov: {
+      heading: 34,
+      pitch: 10,
+	  zoom: 0
+
+    }
+  };
+  var panorama = new  google.maps.StreetViewPanorama(document.getElementById('zooprahastreetview'),panoramaOptions);
+  map.setStreetView(panorama);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+
+<div class="mainboxcontent largebox"><div class="mainboxtitle"><h2>Podívejte se do Zoo Praha pomocí Google StreetView</h2></div><div class="boxcontent">
+    <div id="zooprahastreetview" style="width: 620px; height: 400px;"></div>
+</div>
+</div>
+
+
+
+
+	<div class="mainboxcontent largebox background">
+<div class="mainboxtitle">
+<h2>Mohlo by Vás také zajímat</h2>
+</div>
+<div class="boxcontent">
+<div class="boxtitle">
+<h3><a href="/navsteva/vstupne">Vstupné</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/oteviraci-doba">Otevírací doba</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/kudy-do-zoo-praha">Kudy do Zoo Praha</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/mapa">Plánek Zoo Praha</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/program">Program akcí</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/sluzby-navstevnikum">Služby návštěvníkům</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/zvirata-a-expozice/kam-v-zoo">Kam v zoo</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/zvirata-a-expozice/seznamte-se">Seznamte se (naše zvířecí osobnosti)</a></h3>
+</div>
+</div>
+<div class="boxcontent border">
+<div class="boxtitle">
+<h3><a href="/navsteva/navstevni-rad">Návštěvní řád</a></h3>
+</div>
+</div>
+</div>
+    
+    </div>
+    
+    
+  
+     
+
+
+    
+  
+	 
+
+
+<div id="aside">        
+
+
+
+	<div class="boxcontent">
+<div class="boxtitle boxbackground" style="min-width: 300px;">
+<h3><a href="http://eshop.zoopraha.cz">E-shop Zoo Praha</a></h3>
+</div>
+<div class="para"><a href="http://eshop.zoopraha.cz/vstupenky.html"><img src="/images/navsteva/kategorie-images/vstupenky-online.jpg" alt="Nákup vstupenek online" width="300" height="168" border="0" /></a></div>
+<div class="boxsubtitle">
+<h4><a href="http://eshop.zoopraha.cz/vstupenky.html">Prodej ročních vstupenek</a></h4>
+</div>
+<div class="boxsubtitle">
+<h4><a href="http://eshop.zoopraha.cz/zazitkove-programy.html">Zážitkové programy</a></h4>
+</div>
+</div>
+
+
+
+	<div class="boxcontent facebookbox">
+<div class="boxtitle boxbackground normalbox">
+<h3><a href="https://www.facebook.com/zoopraha">Najdete nás na Facebooku</a></h3>
+</div>
+<div id="fb-root"> </div>
+<div class="fb-like-box" style="margin-bottom: 20px;" data-href="https://www.facebook.com/zoopraha" data-width="300" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false"> </div>
+</div>
+<div class="boxcontent stopalevborder">
+<div class="boxtitle boxbackground normalbox"><h3>
+<a href="/aktualne">Aktuálně ze Zoo Praha</a></h3>
+
+</div>
+
+
+		                 <div class="para"><a  href="/navsteva/mapa/183-aktualne-ze-zoo-praha/7944-do-mongolska-miri-dalsi-prevalaci"><img src="/images/_MG_4512_export.jpg" alt="" width="300" height="168" border="0"/></a></div>
+   
+    
+    <div class="boxsubtitle">
+<h4><a  href="/navsteva/mapa/183-aktualne-ze-zoo-praha/7944-do-mongolska-miri-dalsi-prevalaci">
+		Do Mongolska míří další převaláci</a></h4>
+    </div>
+ 
+		           	   	
+	   			
+       
+         <div class="boxsubtitle">
+<h4><a  href="/aktualne/akce-v-zoo-praha/7943-volejte-hrochovi">
+		Volejte hrochovi!</a></h4>
+        </div>
+		
+		
+      
+            
+         
+        
+		           	   	
+	   			
+       
+         <div class="boxsubtitle">
+<h4><a  href="/aktualne/pohledem-reditele/7941-o-vlcich-a-cervene-karkulce">
+		O vlcích a Červené karkulce</a></h4>
+        </div>
+		
+		
+      
+            
+         
+        
+	
+
+</div>
+<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/5" target="_blank"
+							title="Praha chytře">
+							<img
+								src="http://www.zoopraha.cz/images/banners-boxes/praha-chytre.jpg"
+								alt="Praha chytře"
+								width ="300"								height ="300"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+
+</div>
+
+<div style="clear: both"></div>
+
+
+
+	<div class="sitemap">
+<h3>ZOOPRAHA.CZ</h3>
+<div class="mapitem">
+<h4><a href="/navsteva">Návštěva</a></h4>
+<ul>
+<li><a href="/navsteva/vstupne">Vstupné</a></li>
+<li><a href="/navsteva/oteviraci-doba">Otevírací doba</a></li>
+<li><a href="/navsteva/kudy-do-zoo-praha">Kudy do zoo</a></li>
+<li><a href="/navsteva/sluzby-navstevnikum">Služby návštěvníkům</a></li>
+<li><a href="/navsteva/navstevni-rad">Návštěvní řád</a></li>
+<li><a href="/navsteva/mapa">Mapa Zoo Praha</a></li>
+</ul>
+<h4><a href="/vse-o-zoo">Vše o Zoo Praha</a></h4>
+<ul>
+<li><a href="/vse-o-zoo/nase-poslani">Naše poslání</a></li>
+<li><a href="/vse-o-zoo/historie">Historie</a></li>
+<li><a href="/vse-o-zoo/z-reditelny">Z ředitelny</a></li>
+<li><a href="/vse-o-zoo/vyrocni-zpravy">Výroční zprávy</a></li>
+<li><a href="/vse-o-zoo/vyberova-rizeni">Výběrová řízení</a></li>
+<li><a href="/vse-o-zoo/volna-mista">Volná místa</a></li>
+<li><a href="/vse-o-zoo/projekty-podporovane-eu">Projekty podporované EU</a></li>
+</ul>
+</div>
+<div class="mapitem">
+<h4><a href="/zvirata-a-expozice">Zvířata a expozice</a></h4>
+<ul>
+<li><a href="/zvirata-a-expozice/pomahame-jim-prezit">Pomáháme jim přežít</a></li>
+<li><a href="/zvirata-a-expozice/seznamte-se">Seznamte se!</a></li>
+<li><a href="/zvirata-a-expozice/kam-v-zoo">Kam v zoo</a></li>
+<li><a href="/zvirata-a-expozice/zvirata-se-uci">Zvířata se učí</a></li>
+<li><a href="/zvirata-a-expozice/zvirata-v-cislech">Zvířata v číslech</a></li>
+<li><a href="/zvirata-a-expozice/lexikon-zvirat">Lexikon zvířat</a></li>
+</ul>
+<h4><a href="/navsteva/program">Program a aktivity</a></h4>
+<ul>
+<li><a href="/navsteva/program/">Podrobný program</a></li>
+<li><a href="/navsteva/program/kalendarium">Kalendárium</a></li>
+<li><a href="/navsteva/program/komentovana-krmeni-cviceni">Komentované krmení, cvičení</a></li>
+<li><a href="/navsteva/program/zazitkove-programy">Zážitkové programy</a></li>
+<li><a href="/navsteva/program/zooskola-pro-dospele">Zooškola pro dospělé</a></li>
+</ul>
+<h4><a href="/multimedia">Multimédia</a></h4>
+<ul>
+<li><a href="/multimedia/video">Video kanál</a></li>
+<li><a href="/multimedia#live">Internetové přímé přenosy</a></li>
+<li><a href="/multimedia/#interaktivne">Zoo Praha interaktivně</a></li>
+</ul>
+</div>
+<div class="mapitem">
+<h4><a href="/skoly-a-deti">Školám a dětem</a></h4>
+<ul>
+<li><a href="/skoly-a-deti/pro-skoly">Pro školy</a></li>
+<li><a href="/skoly-a-deti/pro-deti">Pro děti</a></li>
+<li><a href="/skoly-a-deti/krouzky">Zookroužek</a></li>
+<li><a href="/skoly-a-deti/zooskola">Zooškola</a></li>
+</ul>
+
+<h4><a href="/aktualne">Aktuálně ze Zoo Praha</a></h4>
+<ul>
+<li><a href="/aktualne/novinky-u-zvirat">Novinky u zvířat</a></li>
+<li><a href="/aktualne/akce-v-zoo-praha">Akce v Zoo Praha</a></li>
+<li><a href="/aktualne/pohledem-reditele">Pohledem ředitele</a></li>
+<li><a href="/aktualne/ostatni-clanky">Ostatní</a></li>
+</ul>
+<div class="mapitem">
+<h4>Internetové speciály</h4>
+<ul>
+<li><a href="http://www.zoopraha.cz/bus">Toulavý autobus</a></li>
+<li><a href="/navrat-divokych-koni">Návrat divokých koní</a></li>
+<li><a href="http://www.pomahamegorilam.cz">Pomáháme gorilám</a></li>
+</ul>
+</div>
+
+</div>
+<div class="mapitem">
+<h4>Sociální sítě</h4>
+<ul>
+<li><a href="http://www.facebook.com/zoopraha">Facebook</a></li>
+<li><a href="http://www.youtube.com/zoopraha">Youtube</a></li>
+</ul>
+<h4><a href="/jak-pomoci">Jak pomoci</a></h4>
+<ul>
+<li><a href="/jak-pomoci/adopce-a-sponzorstvi">Adopce a sponzorství</a></li>
+<li><a href="/jak-pomoci/pomoc-ohrozenym-druhum">Pomoc ohroženým druhům</a></li>
+<li><a href="/jak-pomoci/sms-sponzoring">SMS sponzorování</a></li>
+<li><a href="/jak-pomoci/povodne-2013">Povodně 2013</a></li>
+</ul>
+<h4><a href="http://eshop.zoopraha.cz">E-shop</a></h4>
+<ul>
+<li><a href="http://eshop.zoopraha.cz/vstupenky.html">Roční vstupenky</a></li>
+<li><a href="http://eshop.zoopraha.cz/obleceni/tricka.html">Trička</a></li>
+<li><a href="http://eshop.zoopraha.cz/suvenyry.html">Suvenýry</a></li>
+<li><a href="http://eshop.zoopraha.cz/publikace.html">Publikace</a></li>
+<li><a href="http://eshop.zoopraha.cz/zazitkove-programy.html">Zážitkové programy</a></li>
+</ul>
+
+
+</div>
+<div class="mapitem">
+<h4><a href="/navstevni-kniha">Návštěvní kniha</a></h4>
+<h4><a href="/vse-o-zoo/kontakt">Kontakt</a></h4>
+<ul>
+<li>Zoologická zahrada hl. m. Prahy<br />U Trojského zámku 3/120<br />171 00 Praha 7<br /><br />Tel.: +420 296 112 230<br />Datová schránka ID: es6fem5<br />e-mail: pr@zoopraha.cz</li>
+</ul>
+<h4><a href="/vse-o-zoo/press">Press</a></h4>
+<ul>
+<li><a href="/vse-o-zoo/press/logo-zoo-praha">Logo Zoo Praha</a></li>
+</ul>
+<h4><a href="/reklama-a-marketing">Reklama a marketing</a></h4>
+<h4><a href="/partneri-zoo-praha">Partneři Zoo Praha</a></h4>
+
+
+<h4>Ostatní</h4>
+<ul>
+<li><a href="/?device=xhtml">Mobilní verze zoopraha.cz</a></li>
+<li><a href="/?format=feed&amp;type=rss">RSS kanál</a></li>
+</ul>
+</div>
+<p><br clear="all" /></p>
+<div style="clear: both;"> </div>
+</div>
+</div>
+
+
+
+	
+<div id="footercase" style="padding:0">
+<div id="footer">
+
+<div class="carousel" style="height:120px;width:480px;float:left;">
+     <ul>
+         <li><a href="http://www.kb.cz/"><img src="/img/default/partneri/logo-kb.jpg" alt="Komerční banka, a.s." width="120" height="120"  border="0"/></a></li>
+		<li><a href="http://www.mercedes-benz.cz/"><img src="/img/default/partneri/logo-mercedes-benz.jpg" alt="Mercedes-Benz Česká republika s.r.o." width="120" height="120"  border="0"/></a></li>
+        
+         <li><a href="http://www.coca-cola.cz/"><img src="/img/default/partneri/logo-coca-cola.jpg" alt="Coca-Cola HBC Česká republika, s.r.o." width="120" height="120"  border="0"/></a></li>
+		<li><a href="http://www.bidvest.cz/"><img src="/img/default/partneri/logo-Prima-zmrzlina.jpg" alt="Prima zmrzlina (Bidvest Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>
+
+        
+        <li><a href="http://www.mondelezinternational.com/about/cz_sk/czech.aspx"><img src="/img/default/partneri/logo-opavia.jpg" alt="Opavia (Mondelez Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>     
+          <li><a href="http://www.mondelezinternational.com/about/cz_sk/czech.aspx"><img src="/img/default/partneri/logo-mondelez.jpg" alt="Opavia (Mondelez Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>
+        <li><a href="http://www.o2.cz/osobni/"><img src="/img/default/partneri/logo-02.jpg" alt="Telefónica Czech Republic, a.s." width="120" height="120"  border="0"/></a></li>
+		
+		<li><a href="http://www.kozel.cz/"><img src="/img/default/partneri/logo-kozel.jpg" alt="Velkopopovický Kozel (Plzeňský Prazdroj, a. s.)" width="120" height="120"  border="0"/></a></li>
+		
+        		<li><a href="http://www.koh-i-noor.cz/"><img src="/img/default/partneri/logo-kohinoor.jpg" alt="KOH-I-NOOR HARDTMUTH a.s." width="120" height="120" border="0"/></a></li>
+        <li><a href="http://www.euroawk.cz/"><img src="/img/default/partneri/euroawk.jpg" alt="EURO AWK" width="120" height="120"  border="0"/></a></li>      
+        <li><a href="http://www.idnes.cz/"><img src="/img/default/partneri/logo-dnes.jpg" alt="Mladá Fronta Dnes" width="120" height="120"  border="0"/></a></li>
+                <li><a href="http://www.idnes.cz/"><img src="/img/default/partneri/logo-idnes.jpg" alt="iDNES.cz" width="120" height="120"  border="0"/></a></li>
+
+     </ul>
+</div>
+
+<div style="margin-top:60px;">
+(c) 2014 Zoo Praha. Všechna práva vyhrazena.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.praha.eu/"><img src="/img/default/praha-ico.gif" alt="Praha volnočasová" width="31" height="32" border="0" /></a></div>
+</div>
+
+<br clear="all"/>
+</div>
+
+
+
+
+
+
+
+
+<div id="googleanalytics">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43078682-1', 'zoopraha.cz');
+  ga('send', 'pageview');
+
+</script>
+</div>
+
+</div>
+
+
+	</body>
+</html>

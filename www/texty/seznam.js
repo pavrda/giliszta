@@ -1,99 +1,102 @@
 var loader = [
 {
 	"id":"1",
-	"category":"o-nas",
+	"category":"navsteva",
+	"title":"Otevírací doba",
 	"image_url":"orel-icon.jpg",
-	"url":"texty/pribeh-eyrie.html",
+	"url":"texty/oteviraci-doba.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
 	"id":"2",
-	"category":"o-nas",
-	"image_url":"hory-icon.jpg",
-	"url":"texty/o-nas.html",
+	"category":"navsteva",
+	"title":"Vstupné",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/vstupne.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
-
 }, {
 	"id":"3",
-	"category":"poradenstvi-a-sluzby",
-	"image_url":"krizovy-management-icon.jpg",
-	"url":"texty/krizovy-management-35.html",
+	"category":"navsteva",
+	"title":"Kudy do ZOO Praha",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/kudy-do-zoo-praha.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
+
+
+	
 	"id":"4",
-	"category":"poradenstvi-a-sluzby",
-	"image_url":"manazer-icon.jpg",
-	"url":"texty/manager-challenge-centrum-33.html",
+	"category":"zvirata",
+	"title":"Seznamte se",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/seznamte-se.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
 	"id":"5",
-	"category":"poradenstvi-a-sluzby",
-	"image_url":"mep-icon.jpg",
-	"url":"texty/mep-management-employment-potential-34.html",
+	"category":"zvirata",
+	"title":"Kam v ZOO",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/kam-v-zoo.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
-	"id":"6",
-	"category":"poradenstvi-a-sluzby",
-	"image_url":"clanek.jpg",
-	"url":"texty/osobnost-a-jeji-rozvoj-36.html",
-	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
+	
 
+	
+	"id":"6",
+	"category":"program",
+	"title":"Prgoram",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/program.html",
+	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
 	"id":"7",
-	"category":"pro-inspiraci",
-	"image_url":"bata-icon.jpg",
-	"url":"texty/tomas-bata.html",
-	"date_pub":"Tue, 19 Mar 2014 00:00:00 +0100"
-}, {
-	"id":"8",
-	"category":"pro-inspiraci",
-	"image_url":"time-managementu-icon.jpg",
-	"url":"texty/udelej-to-zitra-a-dalsi-tajemstvi-time-managementu.html",
+	"category":"program",
+	"title":"Kalendárium",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/7794-program-2014.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
-	"id":"9",
-	"category":"pro-inspiraci",
-	"image_url":"doktor-icon.jpg",
-	"url":"texty/zpomaluje-rust-mezd-nejmene-berou-experti-na-jihu-cech.html",
-	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 
+	
+	"id":"8",
+	"category":"mapa",
+	"title":"Mapa",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/mapa.html",
+	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
+}, {
+
+
+	
+	"id":"9",
+	"category":"pomoc",
+	"title":"SMS sponzoring",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/sms-sponzoring.html",
+	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
 	"id":"10",
-	"category":"doporucujeme",
-	"image_url":"curling-icon.jpg",
-	"url":"texty/na-letne-vyrostl-originalni-olympijsky-park.html",
+	"category":"pomoc",
+	"title":"Adopce a sponzorství",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/adopce-a-sponzorstvi.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
+	
 	"id":"11",
-	"category":"doporucujeme",
-	"image_url":"lyzovani-icon.jpg",
-	"url":"texty/v-chuchli-se-otevrel-areal-pro-bezecke-lyzovani.html",
+	"category":"o-nas",
+	"title":"Naše poslání",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/nase-poslani.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
 }, {
+	
 	"id":"12",
-	"category":"doporucujeme",
-	"image_url":"certovka-icon.jpg",
-	"url":"texty/zimni-plavby-prazskymi-benatkami.html",
+	"category":"o-nas",
+	"title":"Kontakt",
+	"image_url":"orel-icon.jpg",
+	"url":"texty/kontakt.html",
 	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
-
-
-}, {
-	"id":"13",
-	"category":"osobnosti",
-	"image_url":"Michl-icon.jpg",
-	"url":"texty/co-muzeme-ocekavat-v-ceske-ekonomice-v-roce-2014.html",
-	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
-}, {
-	"id":"14",
-	"category":"osobnosti",
-	"image_url":"Stepanka-duchkova-icon.jpg",
-	"url":"texty/pozvali-vas-aneb-zasady-vystoupeni-pred-kamerou.html",
-	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
-}, {
-	"id":"15",
-	"category":"osobnosti",
-	"image_url":"Krivanek-icon.png",
-	"url":"texty/stihle-mysleni-ve-vyrobe-i-administrative.html",
-	"date_pub":"Tue, 18 Mar 2014 00:00:00 +0100"
+	
 }
 ];
 

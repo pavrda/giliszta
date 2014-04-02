@@ -1,0 +1,1064 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs-cz" lang="cs-cz" dir="ltr" >
+	<head>
+		  <base href="http://www.zoopraha.cz/zvirata-a-expozice/seznamte-se" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="zoo, zoo praha, zvířata, gorily, sloni, park, výlet, prohlídky, ochrana zvířat" />
+  <meta name="description" content="Zoologická zahrada hl. m. Prahy sídlí v pražské Troji už více než 80 let." />
+  <title>Zoo Praha  - Seznamte se!</title>
+  <!-- Perfect Link with Article Images on Facebook PRO -->
+  <meta property="og:title" content="Seznamte se!"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="http://www.zoopraha.cz/zvirata-a-expozice/seznamte-se"/>
+  <meta property="og:site_name" content="Zoo Praha "/>
+  <meta property="og:description" content="Poznejte 25 nejzaj&iacute;mavěj&scaron;&iacute;ch obyvatel pražsk&eacute; zoo &ndash; osobnost&iacute;, kter&eacute; na v&aacute;s mezi lety 2010 a 2012 pravidelně shl&iacute;žely z plak&aacute;tů! Nejenom, že je každ&yacute; z nich představitelem fascinuj&iacute;c&iacute;ho živoči&scaron;n&eacute;ho druhu, ale nav&iacute;c jsou to jedinečn&eacute; individuality..."/>
+  <meta property="og:image" content="http://www.zoopraha.cz/images/banners/seznamte-se-4.jpg"/>
+
+	<meta name="robots" content="index, follow" />
+    	<link rel="alternate" type="application/rss+xml" title="Zoo Praha (kanal RSS) / Prague Zoo (RSS channel)"  href="http://www.zoopraha.cz/?format=feed&amp;type=rss"/>
+    <link href="/img/default/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	
+                
+
+		<script  type="text/javascript" src="/dev/javascript/jquery-1.9.1.js"></script>
+        <script  type="text/javascript" src="/dev/javascript/jquery-ui.js"></script>
+        <script type="text/javascript" src="/dev/javascript/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/dev/javascript/jquery.elastislide.js"></script>
+        
+		<script type="text/javascript" src="/dev/javascript/lightbox-2.6.min.js"></script>
+        <script type="text/javascript" src="/dev/javascript/zoowidgets.js"></script>        
+        <script type="text/javascript" src="/dev/javascript/socialplugins.js" ></script>
+        
+        <script type="text/javascript" src="/dev/javascript/jquery-apps.js" ></script>
+        <script type="text/javascript" src="/dev/javascript/addthis_widget.js#pubid=ra-51e7f5bb69240ddc"></script>
+
+	<script type="text/javascript" src="/dev/javascript/partneri.js"></script>
+<script type="text/javascript" src="/dev/javascript/partneri-run.js"></script>
+
+
+  
+		<link rel="stylesheet" href="/dev/css/basic.css?v21" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/widgets.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/dev/css/colors.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/dev/css/icons.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/dev/css/lightbox.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="/dev/css/gallery.css" type="text/css" media="screen" />
+
+        <!--[if IE]>
+		<link rel="stylesheet" href="/dev/css/ie.css" type="text/css" media="all"/>
+		<![endif]-->
+		<link rel="stylesheet" href="/dev/css/print.css?v212" type="text/css" media="print"/>
+        
+
+	</head>
+
+<body>
+<div id="page">
+
+
+<div id="topcase">
+	<div id="top">
+
+
+
+
+	<div id="logo"><a href="/cs"><img src="/img/cs/ZooPraha-logo.png" alt="Zoo Praha" width="142" height="167" border="0"/></a></div>
+
+
+
+	<div itemscope itemtype="http://schema.org/Organization" class="objecthid">
+  <a itemprop="url" href="http://www.zoopraha.cz/">Zoo Praha</a>
+  <img itemprop="logo" src="http://www.zoopraha.cz/img/Zoologicka-zahrada-hl-m-Prahy.png" />
+</div>
+
+<div id="navigation">
+
+
+
+	<ul>
+<li><a href="http://www.facebook.com/zoopraha"><img src="/img/default/facebook.jpg" border="0" alt="facebook" width="63" height="23" /></a></li>
+<li><a href="/vse-o-zoo/press">Press</a></li>
+<li><a href="/vse-o-zoo/kontakt">Kontakt</a></li>
+<li><a href="/cs">CZ</a> / <a href="/en">EN</a></li>
+</ul>
+
+
+
+	<form action="/hledani/" method="get"><input class="inputsearch" onclick="this.value='';" type="text" name="searchword" value="hledání" /><input class="butsearch" type="submit" name="search" value=""/></form>
+
+</div>
+
+
+<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+
+
+
+<div id="menu">
+<ul>
+
+	
+		<li class="stopabarvaborder1"><a href="/navsteva"><span>Návštěva</span></a>    
+
+<ul class="menulevel2"><li><a href="/navsteva/oteviraci-doba"><span>Otevírací doba</span></a></li>
+<li><a href="/navsteva/vstupne"><span>Vstupné</span></a></li>
+<li><a href="/navsteva/kudy-do-zoo-praha"><span>Kudy do Zoo Praha</span></a></li>
+<li><a href="/navsteva/mapa"><span>Mapa Zoo Praha</span></a></li>
+<li><a href="/navsteva/sluzby-navstevnikum"><span>Služby návštěvníkům</span></a></li>
+<li><a href="/navsteva/program/week.listevents/2014/04/01/-"><span>Program a aktivity</span></a></li>
+<li><a href="/navsteva/no-limit"><span>Karta NO LIMIT</span></a></li>
+<li><a href="/navsteva/fanklub"><span>Fanklub</span></a></li>
+<li><a href="/navsteva/navstevni-rad"><span>Návštěvní řád</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder2 active"><a href="/zvirata-a-expozice"><span>Zvířata a expozice</span></a>    
+
+<ul class="menulevel2"><li><a href="/zvirata-a-expozice/seznamte-se"><span>Seznamte se!</span></a></li>
+<li><a href="/zvirata-a-expozice/pomahame-jim-prezit"><span>Pomáháme jim přežít</span></a></li>
+<li><a href="/zvirata-a-expozice/kam-v-zoo"><span>Kam v zoo</span></a></li>
+<li><a href="/zvirata-a-expozice/zvirata-v-cislech"><span>Zoo v číslech</span></a></li>
+<li><a href="/zvirata-a-expozice/zvirata-se-uci"><span>Zvířata se učí</span></a></li>
+<li><a href="/zvirata-a-expozice/lexikon-zvirat"><span>Lexikon zvířat</span></a></li>
+<li><a href="http://www.zoopraha.cz/multimedia/"><span>Multimedia</span></a></li>
+<li><a href="/zvirata-a-expozice/prirustky"><span>Přírůstky</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder3"><a href="/vse-o-zoo"><span>Vše o zoo</span></a>    
+
+<ul class="menulevel2"><li><a href="/aktualne"><span>Aktuálně</span></a></li>
+<li><a href="/vse-o-zoo/nase-poslani"><span>Naše poslání</span></a></li>
+<li><a href="/vse-o-zoo/press"><span>Pro média</span></a></li>
+<li><a href="/vse-o-zoo/historie"><span>Historie</span></a></li>
+<li><a href="/vse-o-zoo/z-reditelny"><span>Z ředitelny</span></a></li>
+<li><a href="/vse-o-zoo/projekty-podporovane-eu"><span>Projekty podporované EU</span></a></li>
+<li><a href="/vse-o-zoo/vyrocni-zpravy"><span>Výroční zprávy</span></a></li>
+<li><a href="/vse-o-zoo/vyberova-rizeni"><span>Výběrová řízení</span></a></li>
+<li><a href="/vse-o-zoo/volna-mista"><span>Volná místa</span></a></li>
+<li><a href="/vse-o-zoo/kontakt"><span>Kontakt</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder4"><a href="/skoly-a-deti"><span>Školy a děti</span></a>    
+
+<ul class="menulevel2"><li><a href="/skoly-a-deti/pro-deti"><span>Pro děti</span></a></li>
+<li><a href="/skoly-a-deti/pro-skoly"><span>Pro školy</span></a></li>
+<li><a href="/skoly-a-deti/krouzky"><span>Zookroužky</span></a></li>
+<li><a href="/skoly-a-deti/zooskola"><span>Zooškola</span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+		<li class="stopabarvaborder5"><a href="/jak-pomoci"><span>Jak pomoci</span></a>    
+
+<ul class="menulevel2"><li><a href="/jak-pomoci/povodne"><span>Povodně </span></a></li>
+<li><a href="/jak-pomoci/sms-sponzoring"><span>SMS sponzorování</span></a></li>
+<li><a href="/jak-pomoci/pomoc-ohrozenym-druhum"><span>Pomoc ohroženým druhům</span></a></li>
+<li><a href="/jak-pomoci/adopce-a-sponzorstvi"><span>Adopce a sponzorství</span></a></li>
+<li><a href="/jak-pomoci/seznam-darcu-na-novy-sloninec"><span>Seznam dárců </span></a></li>
+</ul>
+
+    </li>
+
+
+	
+	
+	
+	
+	
+		<li class="stopabarvaborder6"><a href="http://eshop.zoopraha.cz"><span>E-shop</span></a>    
+
+
+
+    </li>
+
+</ul>
+
+</div>
+<div style="clear:both"></div>
+
+
+</div>
+</div>
+
+<div id="content"><div id="mainbox" class="stopavelemlok">
+<div id="maintitle"><h1>Seznamte se!</h1></div><div id="mainsubtitle"></div>
+</div>
+<div id="maingraphic"><img src="/images/banners/seznamte-se-4.jpg" width="1000" height="370" border="0" alt="Seznamte se!"/></div>
+
+<div id="mainsub"  class="stopavelemlok">
+ <a href="/">Hlavní stránka</a>&nbsp;>&nbsp;<a href=/zvirata-a-expozice>Zvířata a expozice</a>    </div>
+
+
+
+
+
+    <div id="maincontent" class="stopavelemlok">
+
+    		<div class="perex"><p>Poznejte 25 nejzajímavějších obyvatel pražské zoo – osobností, které na vás mezi lety 2010 a 2012 pravidelně shlížely z plakátů! Nejenom, že je každý z nich představitelem fascinujícího živočišného druhu, ale navíc jsou to jedinečné individuality s vlastním životním příběhem a povahou. Seznámit se s nimi stojí za to!</p>
+<p> </p></div>
+		
+    
+
+    
+    
+
+
+<div class="items-intro">
+   <div class="boxcontent normalbox noborder spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/62-antilopa-losi-klaudie">
+			Antilopa losí – Klaudie</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/62-antilopa-losi-klaudie">
+	<img src="/images/Seznamte_se/antilopa%20losi_Klaudie%20kampa%C5%88_NW.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Tahle majestátní kráska se mezi ostatními býložravci, s nimiž sdílí louku před Africkým domem, neztratí. Větší jsou už jen žirafy. Na rozdíl od její kolegyně, Katrin, zdobí Klaudiin hřbet úhledné světlé proužky. 
+</p></div>
+</div>
+	   <div class="boxcontent normalbox noborder ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5776-dvojzoborozec-nosorozci-prokop">
+			Dvojzoborožec nosorožčí – Prokop</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5776-dvojzoborozec-nosorozci-prokop">
+	<img src="/images/Seznamte_se/Dvojzoborozec%20_nosorozci_Prokop.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Prokop je živoucí připomínkou, že i z domnělého outsidera se může vyklubat naprostá jednička. Kvůli poškozenému zobáku ho žádná zoo nechtěla, v Praze ale dostal šanci – a bohatě se za ni odvděčil!  
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5768-gepard-stihly-kito">
+			Gepard štíhlý – Kito</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5768-gepard-stihly-kito">
+	<img src="/images/Seznamte_se/Gepard_Kito.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Kochat se Kitovou ladnou elegancí není nic těžkého – jeho oblíbené místečko je totiž u skla návštěvnické vyhlídky, takřka na dotek od lidí. Z naší gepardí dvojice je to ten bez skvrnek před ušima.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/66-gorila-nizinna-bikira">
+			Gorila nížinná – Bikira</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/66-gorila-nizinna-bikira">
+	<img src="/images/Seznamte_se/Gorila_Bikira.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Bikiru poznáte mezi ostatními snadno – na obvykle černých rtech má něžně růžové znaky a moc ráda chodí po dvou. Jemná a přátelská, přesně taková je Bikira; gorila, jejíž jméno ve svahilštině znamená „panna“.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/65-guereza-plastikova-lucie">
+			Gueréza pláštíková – Lucie</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/65-guereza-plastikova-lucie">
+	<img src="/images/Seznamte_se/Guereza_plastikova_Lucie.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Jestli je někdo ve skupině zvědavý jako opice, pak právě Lucie – jedna ze dvou dospělých pražských samic. Výtečná matka, kterou poznáte podle poněkud kratší délky bílého splývavého pláštíku.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/64-hrabac-kapsky-kvida">
+			Hrabáč kapský – Kvída</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/64-hrabac-kapsky-kvida">
+	<img src="/images/Seznamte_se/Hrabac_Kvida.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Silné drápy prozradí, že dovede skvěle hrabat. Knoflíkovitý konec čenichu zase napoví, že ráda ryje v půdě. Nejoblíbenější pochoutkou této labužnické pohodářky jsou červi. Seznamte se s Kvídou!
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/63-hroch-obojzivelny-slavek">
+			Hroch obojživelný – Slávek</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/63-hroch-obojzivelny-slavek">
+	<img src="/images/seznamtese/seznamtese-slavek.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Mezi hrochy byste asi gentlemana nehledali. Přesto tohoto tříapůltunového rodáka z Prahy provází pověst galantního dobráka, který se chová nadmíru shovívavě nejen vůči samicím, ale i vůči mláďatům.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5778-kasuar-prilbovy-kasik">
+			Kasuár přilbový – Kašík</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5778-kasuar-prilbovy-kasik">
+	<img src="/images/Seznamte_se/kasuar_kasik.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Kasuáři mají úlohy rozděleny poněkud jinak, než jsme zvyklí. Pro samici totiž rodičovské povinnosti končí snesením vajec a veškerou ostatní péči zajišťuje samec! Takovým obětavým otcem je i náš Kašík.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5779-klokan-rudy-karkulka">
+			Klokan rudý – Karkulka</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5779-klokan-rudy-karkulka">
+	<img src="/images/Seznamte_se/Klokan_rudy_Karkulka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Jméno téhle klokaní dámy je více než trefné – má totiž pro samici svého druhu nezvyklý načervenalý kožíšek. Coby klokan rudý (Macropus rufus) je příslušnicí největšího druhu vačnatce na světě. 
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5775-kun-prevalskeho-len-tomas-adamec">
+			Kůň Převalského - Len </a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5775-kun-prevalskeho-len-tomas-adamec">
+	<img src="/images/Seznamte_se/Kun_Prevalskeho_Len.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Jako pravnuk posledního divokého koně odchyceného ve volné přírodě je geneticky nesmírně cenný pro celý svůj druh. Přesto si dobrovolně zvolil hrát ve stádě druhé housle. Nesmělý hřebec s vruby na uších – Len.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5780-lachtan-jihoafricky-meloun">
+			Lachtan jihoafrický – Meloun</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5780-lachtan-jihoafricky-meloun">
+	<img src="/images/Seznamte_se/Lachtan_jihoafricky_Meloun.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Meloun je krásný, mohutný samec, syn proslulého lachtana Gastona a jeho partnerky Julinky. O otce přišel při tragických povodních v roce 2002, dnes zastává post „hlavy rodiny“ sám. A je to miláček publika!
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5781-medojed-kapsky-cert">
+			Medojed kapský – Čert</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5781-medojed-kapsky-cert">
+	<img src="/images/Seznamte_se/Medojed_Cert.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Medojed kapský jménem Čert je bez nadsázky „otcem zakladatelem“ unikátního pražského chovu těchto zajímavých kunovitých šelem. Neohrožený, energický, silný – to všechno jsou přívlastky, které ho dokonale vystihují.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5777-medved-ledni-bora">
+			Medvěd lední – Bora</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5777-medved-ledni-bora">
+	<img src="/images/Seznamte_se/Medved_ledni_Bora.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Je to téměř k nevíře, ale i když tahle pohodová flegmatička patří do druhu medvěd lední, vodu prostě „nemusí“. A tak ji obvykle snadno poznáte – je to jediný z našich medvědů, který i v létě sedává na břehu.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/70-orel-vychodni-matyas">
+			Orel východní – Matyáš</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/70-orel-vychodni-matyas">
+	<img src="/images/Seznamte_se/orel-vychodni_Matyas-kampa%C5%88.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Tento zástupce jednoho z největších druhů orlů na světě je opravdový rodinný typ, starostlivý otec a pozorný partner. Na kontě má již více než desítku úspěšně odchovaných mláďat, převážně dvojčata!
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/69-panda-cervena-pat">
+			Panda červená - Pat</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/69-panda-cervena-pat">
+	<img src="/images/Seznamte_se/BB_seznamtese_panda_verze_mys.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+V pražské zoo se chovu těchto vzácných šelmiček z lesů himálajského podhůří věnujeme systematičtěji již od 70. let. Přesto se o naše první mládě pandy postarali právě až Pat a jeho partnerka Maria.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/68-slon-indicky-shanti">
+			Slon indický – Shanti </a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/68-slon-indicky-shanti">
+	<img src="/images/Seznamte_se/Slon_indicky_Shanti.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Je nejvyšší a druhou nejstarší slonicí v pražském stádě. Kromě výšky ji prozradí i nápadně klenuté čelo. Do Česka dorazila v raném dětství jako budoucí filmová hvězda, nedávno se zase dočkala výstavy vlastních obrazů....</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/67-stetkoun-africky-morris">
+			Štětkoun africký – Morris</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/67-stetkoun-africky-morris">
+	<img src="/images/Seznamte_se/Stetkoun_Morris.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+S bratrem Mikeym jsou si tihle zrzaví fešáci podobní téměř jako vejce vejci. Poznávacím znakem Morrise je růžová skvrna na vnitřní straně pravého rohu a fakt, že mu bílá čára na hřbetě nesahá až k hlavě.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5774-tapir-cabrakovy-indah">
+			Tapír čabrakový – Indah</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5774-tapir-cabrakovy-indah">
+	<img src="/images/Seznamte_se/Tapir_cabrakovy_Indah.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Přísluší k jednomu z nejvzácnějších druhů lichokopytníků světa a se samcem Nikem jsou jediní tapíři čabrakoví v České republice. Poznávací znak? Na rozdíl od svého partnera nemá bílé „ponožky“ na nohách.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5773-trnucha-castexova-otorongo">
+			Trnucha Castexova – Otorongo</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5773-trnucha-castexova-otorongo">
+	<img src="/images/Seznamte_se/Trnucha_Otorongo.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Chovatelé mu říkají Chlapečku nebo Parybo a dennodenně se utvrzují v tom, že tenhle sladkovodní rejnok je osobnost s velkým O. Jeho nejoblíbenější kratochvíle? Laškování s anakondími spolubydlícími!
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5772-tucnak-humboldtuv-otylka">
+			Tučňák Humboldtův – Otylka</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5772-tucnak-humboldtuv-otylka">
+	<img src="/images/Seznamte_se/Tucnak_Humboldtuv_Otylka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Že vám všichni tučňáci připadají stejní a od sebe je sotva můžete rozpoznat? Ale kdeže! Otylku s jejím partnerem Drobkem najdete mezi ostatními snadno – jsou totiž v našem hejně zdaleka největší.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5771-tygr-malajsky-kawi">
+			Tygr malajský – Kawi</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5771-tygr-malajsky-kawi">
+	<img src="/images/Seznamte_se/Tygr_malajsky_Kawi.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Původ tohoto pruhovaného krasavce je pro evropský chov mimořádně cenný – do Prahy totiž přišel přímo z rodného Bornea. Jako samostatný poddruh byl přitom tygr malajský rozpoznán teprve dva roky předtím!
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5770-varan-komodsky-aranka">
+			Varan komodský – Aranka</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5770-varan-komodsky-aranka">
+	<img src="/images/Seznamte_se/Varan_komodsky_Aranka.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Nejúspěšnější varaní matka Aranka zosobňuje vše, co na varanech komodských obdivujeme. Sílu, dravost, neohroženost, vysokou inteligenci, vynalézavost, citlivost i soustředěnost v péči o snůšku.
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5767-velbloud-dvouhrby-jepe">
+			Velbloud dvouhrbý – Jepe</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5767-velbloud-dvouhrby-jepe">
+	<img src="/images/Seznamte_se/velbloud_dvouhrby_Jepe.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Největší velbloud pražského stáda vládne svému harému s rozvahou a bohorovným klidem už více než deset let. Bezpečně ho poznáte podle toho, že se mu celý přední hrb překlápí na pravou stranu.
+</p></div>
+</div>
+	   <div class="boxcontent normalbox border ">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/5766-zelva-sloni-eberhard">
+			Želva sloní – Eberhard</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/5766-zelva-sloni-eberhard">
+	<img src="/images/Seznamte_se/Zelva_sloni_Eberhard.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Kurátor plazů Petre Velenský říká Eberhardovi „Klidná síla“. Celým jménem se však jmenuje Eberhard von Leipziger Hauptbahnhof. Druhově je to želva sloní santacruzská <em>(Chelonoidis nigra porteri).</em>
+</p></div>
+</div>
+	<br clear="all"/>   <div class="boxcontent normalbox border spaceright">
+	
+
+
+	<div class="boxtitle"><h3>
+					<a href="/zvirata-a-expozice/seznamte-se/71-zirafa-rothschildova-nora">
+			Žirafa Rothschildova – Nora</a>
+			</h3></div>
+ <div class="para">
+<p>
+
+
+
+<a href="/zvirata-a-expozice/seznamte-se/71-zirafa-rothschildova-nora">
+	<img src="/images/Seznamte_se/Zirafa_Nora.jpg_thumb_300.jpg" alt="" width="300" height="168" border="0" />
+</a>
+	    
+Nora je rodačka z pražské zoo – v pořadí čtyřicátá žirafa Rothschildova, která u nás přišla na svět. Ze všech žiraf je nejkonzervativnější a s nedůvěrou hledí na každou novinku, zato jako matka je příkladná.
+</p></div>
+</div>
+	 </div>
+
+
+
+
+  
+     </div>
+     
+ 
+
+<div id="aside">        
+
+
+
+	<div class="boxcontent stopabarvaborder2">
+<div class="boxtitle boxbackground normalbox">
+<h3><a href="http://www.youtube.com/playlist?list=PLwyRIZqs-YgAND1rSYZkllsze1UIaohH3">Seznamte se! na Youtube</a></h3>
+</div>
+	<script type="text/javascript" src="/templates/zooprahaweb/javascript/swfobject.js"></script>
+	<script type="text/javascript" src="/templates/zooprahaweb/javascript/jquery.youtube.player.js"></script>
+<div class="youtube-player">
+<div class="youtube-player-video">
+<div class="youtube-player-object">You need Flash player 8+ and JavaScript enabled to view this video.</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	//<![CDATA[
+
+		(function($){
+			var config =  {
+ width: 300, 
+  height: 230,
+				repeatPlaylist: 1,
+
+				chromeless: 0,
+
+				// Custom playlist
+				 playlist: {
+                        playlist: 'PLwyRIZqs-YgAND1rSYZkllsze1UIaohH3'
+                }
+			};
+
+			$('.youtube-player').player(config)
+
+		})(this.jQuery);
+	//]]>
+	</script>
+
+
+
+	<div class="boxcontent">
+<div class="boxtitle boxbackground normalbox"><a href="http://eshop.zoopraha.cz/pomahame-jim-prezit.html">
+<h3>Pomáhejte jim přežít spolu s námi!</h3>
+</a></div>
+<div class="para"><a href="http://eshop.zoopraha.cz/pomahame-jim-prezit.html"><img src="/images/banners-eshop/eshop-insitu.jpg" alt="" border="0" height="200" width="300" /></a>
+<p>Zakupte si některý z dárkových předmětů s logem pomáháme jim přežít v e-shopu Zoo Praha. Část z výtěžku triček, hrnečků, knížek, cd či dvd je určen na ochranářské projekty.</p>
+</div>
+</div>
+
+
+
+	<div class="boxcontent facebookbox">
+<div class="boxtitle boxbackground normalbox">
+<h3><a href="https://www.facebook.com/zoopraha">Najdete nás na Facebooku</a></h3>
+</div>
+<div id="fb-root"> </div>
+<div class="fb-like-box" style="margin-bottom: 20px;" data-href="https://www.facebook.com/zoopraha" data-width="300" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false"> </div>
+</div>
+<div class="boxcontent stopalevborder">
+<div class="boxtitle boxbackground normalbox"><h3>
+<a href="/aktualne">Aktuálně ze Zoo Praha</a></h3>
+
+</div>
+
+
+		                 <div class="para"><a  href="/zvirata-a-expozice/seznamte-se/183-aktualne-ze-zoo-praha/7944-do-mongolska-miri-dalsi-prevalaci"><img src="/images/_MG_4512_export.jpg" alt="" width="300" height="168" border="0"/></a></div>
+   
+    
+    <div class="boxsubtitle">
+<h4><a  href="/zvirata-a-expozice/seznamte-se/183-aktualne-ze-zoo-praha/7944-do-mongolska-miri-dalsi-prevalaci">
+		Do Mongolska míří další převaláci</a></h4>
+    </div>
+ 
+		           	   	
+	   			
+       
+         <div class="boxsubtitle">
+<h4><a  href="/aktualne/akce-v-zoo-praha/7943-volejte-hrochovi">
+		Volejte hrochovi!</a></h4>
+        </div>
+		
+		
+      
+            
+         
+        
+		           	   	
+	   			
+       
+         <div class="boxsubtitle">
+<h4><a  href="/aktualne/pohledem-reditele/7941-o-vlcich-a-cervene-karkulce">
+		O vlcích a Červené karkulce</a></h4>
+        </div>
+		
+		
+      
+            
+         
+        
+	
+
+</div>
+<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/component/banners/click/7" target="_blank"
+							title="Divočina v Praze">
+							<img
+								src="http://www.zoopraha.cz/images/banners-boxes/ZOO_web_banner%20zima%20300x3002.jpg"
+								alt="Divočina v Praze"
+								width ="300"								height ="300"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+
+</div>
+
+<div style="clear: both"></div>
+
+
+
+	<div class="sitemap">
+<h3>ZOOPRAHA.CZ</h3>
+<div class="mapitem">
+<h4><a href="/navsteva">Návštěva</a></h4>
+<ul>
+<li><a href="/navsteva/vstupne">Vstupné</a></li>
+<li><a href="/navsteva/oteviraci-doba">Otevírací doba</a></li>
+<li><a href="/navsteva/kudy-do-zoo-praha">Kudy do zoo</a></li>
+<li><a href="/navsteva/sluzby-navstevnikum">Služby návštěvníkům</a></li>
+<li><a href="/navsteva/navstevni-rad">Návštěvní řád</a></li>
+<li><a href="/navsteva/mapa">Mapa Zoo Praha</a></li>
+</ul>
+<h4><a href="/vse-o-zoo">Vše o Zoo Praha</a></h4>
+<ul>
+<li><a href="/vse-o-zoo/nase-poslani">Naše poslání</a></li>
+<li><a href="/vse-o-zoo/historie">Historie</a></li>
+<li><a href="/vse-o-zoo/z-reditelny">Z ředitelny</a></li>
+<li><a href="/vse-o-zoo/vyrocni-zpravy">Výroční zprávy</a></li>
+<li><a href="/vse-o-zoo/vyberova-rizeni">Výběrová řízení</a></li>
+<li><a href="/vse-o-zoo/volna-mista">Volná místa</a></li>
+<li><a href="/vse-o-zoo/projekty-podporovane-eu">Projekty podporované EU</a></li>
+</ul>
+</div>
+<div class="mapitem">
+<h4><a href="/zvirata-a-expozice">Zvířata a expozice</a></h4>
+<ul>
+<li><a href="/zvirata-a-expozice/pomahame-jim-prezit">Pomáháme jim přežít</a></li>
+<li><a href="/zvirata-a-expozice/seznamte-se">Seznamte se!</a></li>
+<li><a href="/zvirata-a-expozice/kam-v-zoo">Kam v zoo</a></li>
+<li><a href="/zvirata-a-expozice/zvirata-se-uci">Zvířata se učí</a></li>
+<li><a href="/zvirata-a-expozice/zvirata-v-cislech">Zvířata v číslech</a></li>
+<li><a href="/zvirata-a-expozice/lexikon-zvirat">Lexikon zvířat</a></li>
+</ul>
+<h4><a href="/navsteva/program">Program a aktivity</a></h4>
+<ul>
+<li><a href="/navsteva/program/">Podrobný program</a></li>
+<li><a href="/navsteva/program/kalendarium">Kalendárium</a></li>
+<li><a href="/navsteva/program/komentovana-krmeni-cviceni">Komentované krmení, cvičení</a></li>
+<li><a href="/navsteva/program/zazitkove-programy">Zážitkové programy</a></li>
+<li><a href="/navsteva/program/zooskola-pro-dospele">Zooškola pro dospělé</a></li>
+</ul>
+<h4><a href="/multimedia">Multimédia</a></h4>
+<ul>
+<li><a href="/multimedia/video">Video kanál</a></li>
+<li><a href="/multimedia#live">Internetové přímé přenosy</a></li>
+<li><a href="/multimedia/#interaktivne">Zoo Praha interaktivně</a></li>
+</ul>
+</div>
+<div class="mapitem">
+<h4><a href="/skoly-a-deti">Školám a dětem</a></h4>
+<ul>
+<li><a href="/skoly-a-deti/pro-skoly">Pro školy</a></li>
+<li><a href="/skoly-a-deti/pro-deti">Pro děti</a></li>
+<li><a href="/skoly-a-deti/krouzky">Zookroužek</a></li>
+<li><a href="/skoly-a-deti/zooskola">Zooškola</a></li>
+</ul>
+
+<h4><a href="/aktualne">Aktuálně ze Zoo Praha</a></h4>
+<ul>
+<li><a href="/aktualne/novinky-u-zvirat">Novinky u zvířat</a></li>
+<li><a href="/aktualne/akce-v-zoo-praha">Akce v Zoo Praha</a></li>
+<li><a href="/aktualne/pohledem-reditele">Pohledem ředitele</a></li>
+<li><a href="/aktualne/ostatni-clanky">Ostatní</a></li>
+</ul>
+<div class="mapitem">
+<h4>Internetové speciály</h4>
+<ul>
+<li><a href="http://www.zoopraha.cz/bus">Toulavý autobus</a></li>
+<li><a href="/navrat-divokych-koni">Návrat divokých koní</a></li>
+<li><a href="http://www.pomahamegorilam.cz">Pomáháme gorilám</a></li>
+</ul>
+</div>
+
+</div>
+<div class="mapitem">
+<h4>Sociální sítě</h4>
+<ul>
+<li><a href="http://www.facebook.com/zoopraha">Facebook</a></li>
+<li><a href="http://www.youtube.com/zoopraha">Youtube</a></li>
+</ul>
+<h4><a href="/jak-pomoci">Jak pomoci</a></h4>
+<ul>
+<li><a href="/jak-pomoci/adopce-a-sponzorstvi">Adopce a sponzorství</a></li>
+<li><a href="/jak-pomoci/pomoc-ohrozenym-druhum">Pomoc ohroženým druhům</a></li>
+<li><a href="/jak-pomoci/sms-sponzoring">SMS sponzorování</a></li>
+<li><a href="/jak-pomoci/povodne-2013">Povodně 2013</a></li>
+</ul>
+<h4><a href="http://eshop.zoopraha.cz">E-shop</a></h4>
+<ul>
+<li><a href="http://eshop.zoopraha.cz/vstupenky.html">Roční vstupenky</a></li>
+<li><a href="http://eshop.zoopraha.cz/obleceni/tricka.html">Trička</a></li>
+<li><a href="http://eshop.zoopraha.cz/suvenyry.html">Suvenýry</a></li>
+<li><a href="http://eshop.zoopraha.cz/publikace.html">Publikace</a></li>
+<li><a href="http://eshop.zoopraha.cz/zazitkove-programy.html">Zážitkové programy</a></li>
+</ul>
+
+
+</div>
+<div class="mapitem">
+<h4><a href="/navstevni-kniha">Návštěvní kniha</a></h4>
+<h4><a href="/vse-o-zoo/kontakt">Kontakt</a></h4>
+<ul>
+<li>Zoologická zahrada hl. m. Prahy<br />U Trojského zámku 3/120<br />171 00 Praha 7<br /><br />Tel.: +420 296 112 230<br />Datová schránka ID: es6fem5<br />e-mail: pr@zoopraha.cz</li>
+</ul>
+<h4><a href="/vse-o-zoo/press">Press</a></h4>
+<ul>
+<li><a href="/vse-o-zoo/press/logo-zoo-praha">Logo Zoo Praha</a></li>
+</ul>
+<h4><a href="/reklama-a-marketing">Reklama a marketing</a></h4>
+<h4><a href="/partneri-zoo-praha">Partneři Zoo Praha</a></h4>
+
+
+<h4>Ostatní</h4>
+<ul>
+<li><a href="/?device=xhtml">Mobilní verze zoopraha.cz</a></li>
+<li><a href="/?format=feed&amp;type=rss">RSS kanál</a></li>
+</ul>
+</div>
+<p><br clear="all" /></p>
+<div style="clear: both;"> </div>
+</div>
+</div>
+
+
+
+	
+<div id="footercase" style="padding:0">
+<div id="footer">
+
+<div class="carousel" style="height:120px;width:480px;float:left;">
+     <ul>
+         <li><a href="http://www.kb.cz/"><img src="/img/default/partneri/logo-kb.jpg" alt="Komerční banka, a.s." width="120" height="120"  border="0"/></a></li>
+		<li><a href="http://www.mercedes-benz.cz/"><img src="/img/default/partneri/logo-mercedes-benz.jpg" alt="Mercedes-Benz Česká republika s.r.o." width="120" height="120"  border="0"/></a></li>
+        
+         <li><a href="http://www.coca-cola.cz/"><img src="/img/default/partneri/logo-coca-cola.jpg" alt="Coca-Cola HBC Česká republika, s.r.o." width="120" height="120"  border="0"/></a></li>
+		<li><a href="http://www.bidvest.cz/"><img src="/img/default/partneri/logo-Prima-zmrzlina.jpg" alt="Prima zmrzlina (Bidvest Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>
+
+        
+        <li><a href="http://www.mondelezinternational.com/about/cz_sk/czech.aspx"><img src="/img/default/partneri/logo-opavia.jpg" alt="Opavia (Mondelez Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>     
+          <li><a href="http://www.mondelezinternational.com/about/cz_sk/czech.aspx"><img src="/img/default/partneri/logo-mondelez.jpg" alt="Opavia (Mondelez Czech Republic s.r.o.)" width="120" height="120"  border="0"/></a></li>
+        <li><a href="http://www.o2.cz/osobni/"><img src="/img/default/partneri/logo-02.jpg" alt="Telefónica Czech Republic, a.s." width="120" height="120"  border="0"/></a></li>
+		
+		<li><a href="http://www.kozel.cz/"><img src="/img/default/partneri/logo-kozel.jpg" alt="Velkopopovický Kozel (Plzeňský Prazdroj, a. s.)" width="120" height="120"  border="0"/></a></li>
+		
+        		<li><a href="http://www.koh-i-noor.cz/"><img src="/img/default/partneri/logo-kohinoor.jpg" alt="KOH-I-NOOR HARDTMUTH a.s." width="120" height="120" border="0"/></a></li>
+        <li><a href="http://www.euroawk.cz/"><img src="/img/default/partneri/euroawk.jpg" alt="EURO AWK" width="120" height="120"  border="0"/></a></li>      
+        <li><a href="http://www.idnes.cz/"><img src="/img/default/partneri/logo-dnes.jpg" alt="Mladá Fronta Dnes" width="120" height="120"  border="0"/></a></li>
+                <li><a href="http://www.idnes.cz/"><img src="/img/default/partneri/logo-idnes.jpg" alt="iDNES.cz" width="120" height="120"  border="0"/></a></li>
+
+     </ul>
+</div>
+
+<div style="margin-top:60px;">
+(c) 2014 Zoo Praha. Všechna práva vyhrazena.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.praha.eu/"><img src="/img/default/praha-ico.gif" alt="Praha volnočasová" width="31" height="32" border="0" /></a></div>
+</div>
+
+<br clear="all"/>
+</div>
+
+
+
+
+
+
+
+
+<div id="googleanalytics">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43078682-1', 'zoopraha.cz');
+  ga('send', 'pageview');
+
+</script>
+</div>
+
+</div>
+
+
+	</body>
+</html>

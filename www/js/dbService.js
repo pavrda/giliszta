@@ -10,7 +10,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	var nowSync = 0;
 	var appBaseURL = "";
 	
-    db = window.openDatabase("Eyrie", "1.0", "Eyrie", 200000);
+    db = window.openDatabase("ZOOPraha", "1.0", "ZOOPraha", 200000);
 	
 	function initFs() {		
 		var s = location.origin + location.pathname;
@@ -29,7 +29,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 
 	function gotFileSystem(lfs) {
 		fs = lfs;
-		fs.root.getDirectory('eyrie', {create: true, exclusive: false}, gotDirectory, onError);
+		fs.root.getDirectory('zoopraha', {create: true, exclusive: false}, gotDirectory, onError);
 	}
 	
 	function gotDirectory(ldir) {
@@ -39,7 +39,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 		
 	
 	function initDb(){
-		var tstamp = window.localStorage.getItem('eyrie-timestamp');
+		var tstamp = window.localStorage.getItem('zoopraha-timestamp');
 		if (!tstamp) {
 			console.log('first run - create db structure');
 			db.transaction(createDbStructure, db.errorDB, function() {
@@ -54,7 +54,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 
 	function initialLoaded(e) {
 		console.log('initialLoaded()');
-		window.localStorage.setItem('eyrie-timestamp', 1); // aby se npriste nevytvarela databaze, ale aby se provedla synchronizace
+		window.localStorage.setItem('zoopraha-timestamp', 1); // aby se npriste nevytvarela databaze, ale aby se provedla synchronizace
 		prepareSync();
 //		runApp();
 	}
@@ -74,13 +74,14 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	    tx.executeSql('DROP TABLE IF EXISTS category');
 	    tx.executeSql('CREATE TABLE category (poradi unique, id unique, title)');
 //		$('#preLoaderDiv').show();
-
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (1, 'o-nas', 'O Eyrie')");
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (2, 'poradenstvi-a-sluzby', 'Naše služby')");
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (3, 'pro-inspiraci', 'Pro inspiraci')");
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (4, 'doporucujeme', 'Doporučujeme')");
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (5, 'osobnosti', 'Osobnosti')");
-	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (6, 'kontakt', 'Kontakt')");
+	    	    
+	    
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (1, 'navsteva', 'Návštěva')");
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (2, 'zvirata', 'Zvířata a expozice')");
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (3, 'program', 'Program')");
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (4, 'mapa', 'Mapa')");
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (5, 'pomoc', 'Jak pomoci')");
+	    tx.executeSql("INSERT INTO category (poradi, id, title) VALUES (6, 'o-nas', 'O nás')");
 	    
 	    tx.executeSql('DROP TABLE IF EXISTS article');
 	    tx.executeSql('CREATE TABLE IF NOT EXISTS article (id unique, poradi unique, category_id, title, txt, image, date_pub, icon)');
@@ -93,6 +94,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 		var category = convertCategory(loader[loaderCounter].category);
 		var sid = loader[loaderCounter].id;
 		var date_pub = new Date(loader[loaderCounter].date_pub).toISOString();
+		var title = loader[loaderCounter].title;
 		if (sURL.substring(0,7) != "http://") {
 			// stahuji neco z aplikace
 			sURL = appBaseURL + "/" + sURL;
@@ -112,15 +114,21 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 		
 	    $http({method: 'GET', url: sURL}).
 	    success(function(data, status, headers, config) {
+	    	var i;
+	    	var j;
+	    	var txt = data;
+	    	/*
 	    	var i = data.indexOf('<article class="text">');
 	    	var j = data.indexOf('   <span class="clear-box"></span>');
 	    	var txt = data.substring(i + 24,j);
 	    	
 	    	i = data.indexOf('<title>');
 	    	j = data.indexOf('</title>');
+
 	    	var title = data.substring(i + 7,j);
 	    	j = title.indexOf(' |');
 	    	if (j) title = title.substring(0,j);
+	    	*/
 	    	
 	    	console.log("title:" + title);
 	    	i=0;
@@ -278,7 +286,9 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	
 
 	function prepareSync() {
-		lastSync = window.localStorage.getItem('eyrie-timestamp');
+		return syncedOK();
+		
+		lastSync = window.localStorage.getItem('zoopraha-timestamp');
 		nowSync = Math.round(new Date().getTime()/1000);
 
 		$http({method: 'GET', url: 'http://vyvoj.bzcompany.cz/everesta/eyrie.cz/rss/json/?changed=' + lastSync}).
@@ -302,7 +312,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	}
 	
 	function syncedOK() {
-		window.localStorage.setItem('eyrie-timestamp', nowSync);
+		window.localStorage.setItem('zoopraha-timestamp', nowSync);
 		runApp();
 	}
 	
@@ -314,18 +324,16 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 		}
 //		$timeout(prepareUpdate, 100000);
 		$('#preLoaderDiv').hide();
-		if (location.hash == "#/") {
-			// na zacatku presmeruj na kategorii
-			location.hash = "#/pro-inspiraci";
-		} else {
-			$route.reload();					
-		}
+		$route.reload();					
 	}
 	
 	function prepareUpdate() {
+		return updatedOK();
+		
+		
 		$timeout(prepareUpdate, 10000);
 
-		lastSync = window.localStorage.getItem('eyrie-timestamp');
+		lastSync = window.localStorage.getItem('zoopraha-timestamp');
 		nowSync = Math.round(new Date().getTime()/1000);
 		
 		console.log(lastSync);
@@ -351,7 +359,7 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	}
 	
 	function updatedOK() {
-		window.localStorage.setItem('eyrie-timestamp', nowSync);
+		window.localStorage.setItem('zoopraha-timestamp', nowSync);
 		if (loader.length) {
 			$rootScope.$broadcast("contentUpdated");
 		}
@@ -363,8 +371,8 @@ readerApp.factory('dbService', ['$http', '$route', '$timeout', '$rootScope', fun
 	}
 	
 	db.init = function() {
-		window.localStorage.removeItem('eyrie-timestamp');
-//		window.localStorage.setItem('eyrie-timestamp', '2394924400');
+		window.localStorage.removeItem('zoopraha-timestamp');
+//		window.localStorage.setItem('zoopraha-timestamp', '2394924400');
 		initFs();
 	};
 	
