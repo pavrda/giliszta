@@ -235,8 +235,8 @@ div.cl {
 }
 
 div.category {
-    padding-top: 42px;
-	height: 100%;
+    xpadding-top: 42px;
+	xheight: 100%;
 }
 
 div.ca {
@@ -262,7 +262,7 @@ img.artImg {
 
 
 div.contentContainer {
-	height: 100%;
+	xheight: 100%;
 	padding-top: 42px;
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;
