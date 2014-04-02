@@ -20,12 +20,10 @@ body {
     padding:0px;
     width:100%;
 
-	xbackground: url('../img/tygr.jpg') no-repeat;
+	background: url('../img/tygr.jpg') no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
 	
-	overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;	
 	
 	
 }
@@ -241,6 +239,8 @@ div.contentContainer {
 
 div.mainMenu {
 	padding: 10px 10px 10px 10px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;	
 }
 
 
