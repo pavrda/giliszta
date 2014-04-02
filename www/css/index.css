@@ -233,10 +233,17 @@ img.artImg {
 
 
 div.contentContainer {
-	height: 100%;
+	//height: 100%;
 	xxxpadding-top: 42px;
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;	
+	
+		position: absolute;
+	top: 42px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	
 	
 }
 
@@ -280,6 +287,8 @@ div.header {
 	padding: 0.5ex 0.5ex 0.5ex 0.5ex;
 	font-family: Trade Winds;
 	font-size: 16pt;
+	
+	
 }
 
 div.header img {
@@ -290,5 +299,7 @@ div.header a {
 	text-decoration: none;
 	color: #808099;
 }
+
+
 
 
