@@ -24,8 +24,6 @@ body {
 	background-size:cover;
 	background-attachment:fixed;
 	
-	overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;
 }
 
 
@@ -239,7 +237,10 @@ div.contentContainer {
 
 div.mainMenu {
 	padding: 10px 10px 10px 10px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;	
 }
+
 
 .mainMenu a {
 	display: block;
