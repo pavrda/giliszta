@@ -18,7 +18,6 @@ body {
 
 	background: url('../img/tygr.jpg') no-repeat;
 	background-size:cover;
-	-webkit-overflow-scrolling: touch;
 	background-attachment:fixed;
 }
 
@@ -263,7 +262,10 @@ img.artImg {
 
 
 div.contentContainer {
+	height: 100%;
 	padding-top: 42px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
 }
 
 div.mainMenu {
