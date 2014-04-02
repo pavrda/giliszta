@@ -42,22 +42,10 @@
 			<div id="preLoaderDiv">
 				<img id="preloaderAnimation" src="img/loader.gif" />
 			</div>
-			<div id="vrsek">
-	        	<div class="header">
-	        		<div class="nav headerBlock" id="divActualCategory">{{actualCategoryTitle}}</div>
-	        		<div class="logo headerBlock">
-	        			<a href="#/" onclick="event.stopPropagation()"><img src="img/logo.png" height="32" /></a>
-	        		</div>
-	        	</div>
-	        	<div class="rubriky" id="navRubriky" >
-	       			<a href="#/navsteva" data-catid="o-nas"><span>Návštěva</span></a>
-	       			<a href="#/zvirata" data-catid="poradenstvi-a-sluzby" ><span>Zvířata a expozice</span></a>
-	       			<a href="#/program" data-catid="pro-inspiraci" ><span>Program</span></a>
-	       			<a href="#/mapa" data-catid="doporucujeme" ><span>Mapa</span></a>
-	       			<a href="#/pomoc" data-catid="osobnosti" ><span>Jak pomoci</span></a>
-	       			<a href="#/o-nas" data-catid="kontakt" ><span>O nás</span></a>
-	        	</div>
-			</div>        	
+        	<div class="header">
+        		<a href="#/"><img src="img/logo.png" height="32" /></a>&nbsp;
+        		<a href="{{actualCategoryLink}}">{{actualCategoryTitle}}</a>
+        	</div>
         	<div class="contentContainer" id="divContent">
         		<div ng-view></div>
         	</div>
