@@ -235,13 +235,14 @@ img.artImg {
 div.contentContainer {
 	height: 100%;
 	padding-top: 42px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;	
+	
 }
 
 div.mainMenu {
-	height: 100%;
+	xheight: 100%;
 	padding: 10px 10px 10px 10px;
-	overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;	
 }
 
 
@@ -270,6 +271,6 @@ div.main {
 }
 
 div.contentContainer > div.ng-scope {
-	height: 100%;
+	xheight: 100%;
 }
 
